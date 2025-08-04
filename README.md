@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi there, I'm Md Masoom Naushad (Syed masoom) – Data & Business Analyst
 
 🎯 I’m passionate about using data to solve real-world problems and make impactful decisions.  
@@ -11,7 +9,7 @@
 ## 🛠️ Skills & Tools
 
 **Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/640px-Python_logo_01.svg.png)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 
