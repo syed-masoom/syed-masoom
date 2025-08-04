@@ -1,15 +1,61 @@
+# 👋 Hello, I'm Positive Goal
+
+🎯 I'm an aspiring **Data Analyst** passionate about turning data into actionable insights.  
+📊 Skilled in **SQL, Python, Excel, and Power BI**, and continuously building real-world projects to grow my skills.  
+💡 Open to entry-level roles, freelance work, and collaborations in data analytics and reporting.
+
+---
+
+## 🛠️ Tools & Technologies
+
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </p>
 
-###
+---
 
-## 📫 Let’s Connect
+## 📂 Featured Projects
 
-- 🌐 [LinkedIn](www.linkedin.com/in/md-masoom-naushad)
-- 📁 [Portfolio](https://yourportfolio.com)
-- 📧 Email: masoomsyed107@gmail.com
-- [WhatsApp](https://wa.me/917858809945)
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [📊 Sales Dashboard](#) | Visualized monthly sales performance and KPIs | Power BI, Excel |
+| [🔍 Customer Segmentation](#) | Clustered customers based on behavior using RFM | Python, SQL |
+| [📈 Finance Report](#) | Built KPI dashboards and calculated key financial ratios | SQL, Excel, Power BI |
+
+> *(Replace `#` with real links to your projects)*
+
+---
+
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/91XXXXXXXXXX" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+---
+
+> 💬 *“Torture the data, and it will confess to anything.” – Ronald Coase*
+
 ---
 
 > 💡 *“Without data, you're just another person with an opinion.” – W. Edwards Deming*
