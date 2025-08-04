@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Positive Goal
+# 👋 I'm Md Masoom Naushad
 
 🎯 I'm a detail-oriented Data Analyst focused on turning complex data into clear insights and actionable strategies. I have experience building dashboards, analyzing trends, and supporting business decisions through clean, efficient data work. I enjoy solving problems with data and making information easy to understand for all stakeholders.
 
