@@ -32,14 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
----
-
 > 💡 *“Without data, you're just another person with an opinion.” – W. Edwards Deming*
 
 
