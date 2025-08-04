@@ -1,7 +1,10 @@
 # 👋 Hello, I'm Positive Goal
 
-🎯 I'm a data and business analyst with strong skills in SQL, Power BI, and Excel, focused on turning complex data into clear, actionable insights.
+🎯 I'm a detail-oriented Data Analyst focused on turning complex data into clear insights and actionable strategies. I have experience building dashboards, analyzing trends, and supporting business decisions through clean, efficient data work. I enjoy solving problems with data and making information easy to understand for all stakeholders.
 
+🎯 I’m passionate about using data to solve real-world problems and make impactful decisions.  
+📊 Skilled in **SQL, Power BI, Excel, Python, and Data Visualization**.  
+🧠 Continuously learning and working on data projects to enhance my skills.
 ---
 
 ## 🛠️ Tools & Technologies
