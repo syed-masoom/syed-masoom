@@ -30,10 +30,10 @@
 
 ## 📫 Let’s Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🌐 [LinkedIn](www.linkedin.com/in/md-masoom-naushad)
 - 📁 [Portfolio](https://yourportfolio.com)
-- 📧 Email: yourname@example.com
-
+- 📧 Email: masoomsyed107@gmail.com
+- [WhatsApp](https://wa.me/917858809945)
 ---
 
 > 💡 *“Without data, you're just another person with an opinion.” – W. Edwards Deming*
