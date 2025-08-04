@@ -1,8 +1,6 @@
 # 👋 Hello, I'm Positive Goal
 
-🎯 I'm an aspiring **Data Analyst** passionate about turning data into actionable insights.  
-📊 Skilled in **SQL, Python, Excel, and Power BI**, and continuously building real-world projects to grow my skills.  
-💡 Open to entry-level roles, freelance work, and collaborations in data analytics and reporting.
+🎯 I'm a data and business analyst with strong skills in SQL, Power BI, and Excel, focused on turning complex data into clear, actionable insights.
 
 ---
 
