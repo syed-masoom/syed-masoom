@@ -8,19 +8,16 @@
 
 ---
 
-## 📂 My Projects
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [Sales Analysis Dashboard](https://github.com/yourusername/sales-dashboard) | Built an interactive dashboard to analyze sales performance over time | Excel, Power BI |
-| [Customer Segmentation](https://github.com/yourusername/customer-segmentation) | Used clustering to identify customer segments from retail data | Python, Pandas, Scikit-Learn |
-| [Finance KPI Report](https://github.com/yourusername/finance-kpi-report) | Created financial performance KPIs and dashboards | SQL, Excel, Power BI |
-
----
-
 ## 🛠️ Skills & Tools
 
-**Languages:** SQL, Python, DAX  
+**Languages:** SQL, Python, DAX
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 **Libraries/Tools:** Pandas, NumPy, Matplotlib, Scikit-learn  
 **BI Tools:** Power BI, Excel  
 **Databases:** MySQL, PostgreSQL  
