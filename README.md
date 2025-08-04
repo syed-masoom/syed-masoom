@@ -31,13 +31,13 @@
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="mailto:masoomsyed107@gmail.com" target="_blank">
+  <a href="masoomsyed107@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="[www.linkedin.com/in/md-masoom-naushad]" target="_blank">
+  <a href="www.linkedin.com/in/md-masoom-naushad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[https://wa.me/917858809945]" target="_blank">
+  <a href="https://wa.me/917858809945" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
