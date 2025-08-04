@@ -16,18 +16,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [📊 Sales Dashboard](#) | Visualized monthly sales performance and KPIs | Power BI, Excel |
-| [🔍 Customer Segmentation](#) | Clustered customers based on behavior using RFM | Python, SQL |
-| [📈 Finance Report](#) | Built KPI dashboards and calculated key financial ratios | SQL, Excel, Power BI |
-
-> *(Replace `#` with real links to your projects)*
-
----
-
 ## 📬 Connect with Me
 
 <p align="left">
@@ -49,10 +37,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
-
----
-
-> 💬 *“Torture the data, and it will confess to anything.” – Ronald Coase*
 
 ---
 
