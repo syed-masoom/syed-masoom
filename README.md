@@ -8,19 +8,68 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+# 👋 Hello, I'm Positive Goal
+
+🎯 I'm a passionate **Data Analyst** focused on converting raw data into actionable business insights.  
+💼 Proficient in tools like **SQL, Power BI, Excel, and Python**, and building real-world projects to showcase my skills.  
+🚀 Currently open to freelance/entry-level roles in data analysis, business intelligence, or data reporting.
+
+---
+
+## 🛠️ My Tools & Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/ios-filled/50/4479A1/mysql-logo.png" alt="MySQL" title="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="Microsoft SQL Server" title="Microsoft SQL Server"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" title="Excel"/>
 </p>
 
 ---
 
 ## 📬 Connect with Me
+
+<p align="left">
+
+  <!-- Email -->
+  <a href="mailto:positivegoal@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" title="Email"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/positivegoal" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/919812345678" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" title="WhatsApp"/>
+  </a>
+
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=positivegoal&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+---
+
+> 🧠 *"Without data, you're just another person with an opinion." – W. Edwards Deming*
+
+
+---
+
+
+---
+
+> 💡 *“Without data, you're just another person with an opinion.” – W. Edwards Deming*
+>
+>  ## 📬 Connect with Me
 
 <p align="left">
   <a href="masoomsyed107@gmail.com" target="_blank">
@@ -34,9 +83,6 @@
   </a>
 </p>
 
----
-
-> 💡 *“Without data, you're just another person with an opinion.” – W. Edwards Deming*
 
 
 
