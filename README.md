@@ -24,8 +24,6 @@
 
 <p align="left">
 
- 
-
   <!-- LinkedIn -->
   <a href="www.linkedin.com/in/md-masoom-naushad" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
@@ -36,24 +34,14 @@
     <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" title="WhatsApp"/>
   </a>
 
- <!-- Email -->
-  <a href="masoomsyed107@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" title="Email"/>
-  </a>
-
-</p>
-
----
-
 <!-- Email -->
   <a href="masoomsyed107@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" title="Email"/>
   </a>
+  
+</p>
 
-  <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/md-masoom-naushad" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
-  </a>
+---
 
 > 🧠 *"Without data, you're just another person with an opinion." – W. Edwards Deming*
 
