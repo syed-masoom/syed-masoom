@@ -25,7 +25,7 @@
 <p align="left">
 
   <!-- LinkedIn -->
-  <a href="htt://www.linkedin.com/in/md-masoom-naushad/" target="_blank">
+  <a href="http://www.linkedin.com/in/md-masoom-naushad/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
   </a>
 
