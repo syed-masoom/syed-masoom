@@ -35,7 +35,7 @@
   </a>
 
 <!-- Email -->
-  <a href="masoomsyed107@gmail.com" target="_blank">
+  <a href="mailto:masoomsyed107@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" title="Email"/>
   </a>
   
