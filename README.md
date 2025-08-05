@@ -24,17 +24,17 @@
 
 <p align="left">
 
-  
+  <!-- LinkedIn -->
   <a href="http://www.linkedin.com/in/md-masoom-naushad/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
   </a>
 
-  
+  <!-- WhatsApp -->
   <a href="https://wa.me/917858809945" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" title="WhatsApp"/>
   </a>
 
-
+  <!-- Email -->
   <a href="mailto:masoomsyed107@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" title="Email"/>
   </a>
@@ -45,12 +45,11 @@
 
 > 🧠 *"Without data, you're just another person with an opinion." – W. Edwards Deming*
 
-
 ---
-<!-- Email --> 
+ 
 
-<!-- WhatsApp -->
 
-<!-- LinkedIn -->
+
+
 
 
