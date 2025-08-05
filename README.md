@@ -20,7 +20,7 @@
 
 ---
 
-## 📬 Connect with Me
+## 📬 Connect With Me
 
 <p align="left">
 
