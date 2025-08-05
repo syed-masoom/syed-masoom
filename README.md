@@ -8,14 +8,6 @@
 
 ---
 
-# 👋 Hello, I'm Positive Goal
-
-🎯 I'm a passionate **Data Analyst** focused on converting raw data into actionable business insights.  
-💼 Proficient in tools like **SQL, Power BI, Excel, and Python**, and building real-world projects to showcase my skills.  
-🚀 Currently open to freelance/entry-level roles in data analysis, business intelligence, or data reporting.
-
----
-
 ## 🛠️ My Tools & Skills
 
 <p align="left">
@@ -32,29 +24,23 @@
 
 <p align="left">
 
-  <!-- Email -->
-  <a href="mailto:positivegoal@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" title="Email"/>
-  </a>
+ 
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/positivegoal" target="_blank">
+  <a href="www.linkedin.com/in/md-masoom-naushad" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/919812345678" target="_blank">
+  <a href="https://wa.me/917858809945" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" title="WhatsApp"/>
   </a>
 
-</p>
+ <!-- Email -->
+  <a href="masoomsyed107@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" title="Email"/>
+  </a>
 
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=positivegoal&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 ---
