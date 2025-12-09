@@ -25,8 +25,6 @@
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [📊 Sales Dashboard](https://github.com/syed-masoom/Mobile-Store-Sales-Analysis.git) | Built an interactive dashboard with KPIs and trends | Power BI, Excel |
-| [🔍 Customer Segmentation](#) | Segmented customers using RFM model | MySQL, Python |
-| [📈 Financial Report](#) | Generated automated KPIs for finance insights | SQL Server, Excel |
 
 ## 📬 Connect With Me
 
