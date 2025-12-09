@@ -20,6 +20,16 @@
 
 ---
 
+## 📂 Featured Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [📊 Sales Dashboard](#) | Built an interactive dashboard with KPIs and trends | Power BI, Excel |
+| [🔍 Customer Segmentation](#) | Segmented customers using RFM model | MySQL, Python |
+| [📈 Financial Report](#) | Generated automated KPIs for finance insights | SQL Server, Excel |
+
+> *(Replace `#` with actual links to your repositories when ready)*
+
 ## 📬 Connect With Me
 
 <p align="left">
