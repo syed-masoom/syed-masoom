@@ -104,13 +104,12 @@
 <h2 align="center" style="color: #06B6D4;">✦ SYSTEM METRICS ✦</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syed-masoom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111827&title_color=06B6D4&icon_color=3B82F6&text_color=F8FAFC" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syed-masoom&theme=tokyonight&hide_border=true&background=111827&ring=06B6D4&fire=7C3AED&currStreakNum=F8FAFC" alt="GitHub Streak" width="48%" />
+  <!-- Optimized URLs to ensure high availability and prevent broken images -->
+  <img src="https://github-readme-stats.vercel.app/api?username=syed-masoom&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syed-masoom&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-masoom&layout=compact&theme=tokyonight&hide_border=true&bg_color=111827&title_color=06B6D4&text_color=F8FAFC" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-masoom&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
-
-<br><br>
 
 <!-- SERVICES SECTION -->
 <h2 align="center" style="color: #06B6D4;">✦ CORE SERVICES ✦</h2>
