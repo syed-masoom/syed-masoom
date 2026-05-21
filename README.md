@@ -1,6 +1,6 @@
 <!-- PREMIUM COVER BACKGROUND BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=64229d&height=300&section=header&text=Syed%20Masoom&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Content%20Creator&descAlignY=55&descSize=22" width="100%" alt="Cover Background"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=64229d&height=300&section=header&text=Masoom%20Naushad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Content%20Creator&descAlignY=55&descSize=22" width="100%" alt="Cover Background"/>
 </div>
 
 <!-- NAVIGATION / SOCIAL LINKS (Mimicking a website menu) -->
