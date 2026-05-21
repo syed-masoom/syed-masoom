@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  # 👋 Hi, I'm Syed Masoom
+  # 👋 Hi, I'm Masoom Naushad
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=64229D&center=true&vCenter=true&width=600&lines=Data+Analyst;AI+%26+Business+Content+Creator;Translating+Data+into+Decisions)](https://git.io/typing-svg)
 
