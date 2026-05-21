@@ -100,17 +100,6 @@
 
 <br><br>
 
-<!-- GITHUB ANALYTICS SECTION -->
-<h2 align="center" style="color: #06B6D4;">✦ SYSTEM METRICS ✦</h2>
-
-<div align="center">
-  <!-- Optimized URLs to ensure high availability and prevent broken images -->
-  <img src="https://github-readme-stats.vercel.app/api?username=syed-masoom&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syed-masoom&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-masoom&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
 <!-- SERVICES SECTION -->
 <h2 align="center" style="color: #06B6D4;">✦ CORE SERVICES ✦</h2>
 
