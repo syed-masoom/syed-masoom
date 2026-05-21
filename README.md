@@ -136,27 +136,101 @@
 
 <br><br>
 
-<!-- CERTIFICATIONS & CURRENT LEARNING -->
-<table align="center" width="100%" style="border: none;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none;">
-      <h2 style="color: #06B6D4;">✦ CERTIFICATIONS ✦</h2>
-      <table width="100%" bgcolor="#111827">
-        <!-- Upgraded to premium credential badges -->
-        <tr><td style="padding: 10px; color: #F8FAFC;"><img src="https://img.shields.io/badge/CERTIFIED-Advanced_SQL-06B6D4?style=flat-square&logo=datacamp&logoColor=white" /><br><i style="color: #94A3B8; font-size: 12px;">Issuing Organization</i></td></tr>
-        <tr><td style="padding: 10px; color: #F8FAFC;"><img src="https://img.shields.io/badge/CERTIFIED-Power_BI_Analyst-3B82F6?style=flat-square&logo=microsoft&logoColor=white" /><br><i style="color: #94A3B8; font-size: 12px;">Microsoft Data (Placeholder)</i></td></tr>
-        <tr><td style="padding: 10px; color: #F8FAFC;"><img src="https://img.shields.io/badge/CERTIFIED-Data_Analytics-10B981?style=flat-square&logo=google&logoColor=white" /><br><i style="color: #94A3B8; font-size: 12px;">Google Professional (Placeholder)</i></td></tr>
-      </table>
+<!-- CERTIFICATIONS SECTION -->
+<h2 align="center" style="color: #06B6D4;">✦ PROFESSIONAL CERTIFICATIONS ✦</h2>
+
+<!-- Full-Width Premium Card Container -->
+<table align="center" width="100%" bgcolor="#111827" style="border-radius: 12px; border: 1px solid #1F2937; border-collapse: collapse;">
+  <tr>
+    <td width="10%" align="center" style="padding: 25px; border-bottom: 1px solid #1F2937;">
+      <img src="https://img.shields.io/badge/-06B6D4?style=flat-square&logo=datacamp&logoColor=white" width="45" alt="Icon"/>
     </td>
-    <td width="50%" valign="top" style="border: none;">
-      <h2 style="color: #06B6D4;">✦ SYSTEM UPGRADES ✦</h2>
-      <table width="100%" bgcolor="#111827">
-        <!-- Replaced broken image API with unbreakable terminal-style loading bars -->
-        <tr><td style="padding: 10px; color: #F8FAFC;">Advanced SQL <br><span style="color: #06B6D4; letter-spacing: 2px;">█████████░ 90%</span></td></tr>
-        <tr><td style="padding: 10px; color: #F8FAFC;">Power BI & DAX <br><span style="color: #3B82F6; letter-spacing: 2px;">████████░░ 85%</span></td></tr>
-        <tr><td style="padding: 10px; color: #F8FAFC;">Python for Data <br><span style="color: #7C3AED; letter-spacing: 2px;">██████░░░░ 60%</span></td></tr>
-        <tr><td style="padding: 10px; color: #F8FAFC;">AI Automation <br><span style="color: #10B981; letter-spacing: 2px;">███████░░░ 75%</span></td></tr>
+    <td width="70%" style="padding: 25px; border-bottom: 1px solid #1F2937;">
+      <h3 style="color: #F8FAFC; margin: 0;">Advanced SQL for Business Intelligence</h3>
+      <p style="color: #94A3B8; margin: 5px 0 0 0; font-size: 14px;"><i>Demonstrating expertise in complex querying and database optimization.</i></p>
+    </td>
+    <td width="20%" align="center" style="padding: 25px; border-bottom: 1px solid #1F2937;">
+      <img src="https://img.shields.io/badge/VERIFIED-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Verified"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" align="center" style="padding: 25px; border-bottom: 1px solid #1F2937;">
+      <img src="https://img.shields.io/badge/-3B82F6?style=flat-square&logo=microsoft&logoColor=white" width="45" alt="Icon"/>
+    </td>
+    <td width="70%" style="padding: 25px; border-bottom: 1px solid #1F2937;">
+      <h3 style="color: #F8FAFC; margin: 0;">Power BI Data Analyst Associate</h3>
+      <p style="color: #94A3B8; margin: 5px 0 0 0; font-size: 14px;"><i>Microsoft Certified: DAX, Data Modeling, and Executive Dashboarding.</i></p>
+    </td>
+    <td width="20%" align="center" style="padding: 25px; border-bottom: 1px solid #1F2937;">
+      <img src="https://img.shields.io/badge/VERIFIED-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Verified"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" align="center" style="padding: 25px;">
+      <img src="https://img.shields.io/badge/-7C3AED?style=flat-square&logo=google&logoColor=white" width="45" alt="Icon"/>
+    </td>
+    <td width="70%" style="padding: 25px;">
+      <h3 style="color: #F8FAFC; margin: 0;">Google Data Analytics Professional</h3>
+      <p style="color: #94A3B8; margin: 5px 0 0 0; font-size: 14px;"><i>Comprehensive foundation in data cleaning, visualization, and R/Python.</i></p>
+    </td>
+    <td width="20%" align="center" style="padding: 25px;">
+      <img src="https://img.shields.io/badge/VERIFIED-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Verified"/>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<!-- CURRENT LEARNING / SYSTEM UPGRADES SECTION -->
+<h2 align="center" style="color: #06B6D4;">✦ SYSTEM UPGRADES & PROGRESS ✦</h2>
+
+<table align="center" width="100%" bgcolor="#111827" style="border-radius: 12px; border: 1px solid #1F2937; border-collapse: collapse;">
+  <!-- SKILL 1 -->
+  <tr>
+    <td width="30%" style="padding: 25px 25px 15px 25px;">
+      <b style="color: #F8FAFC; font-size: 16px;">Advanced Data Engineering (SQL)</b>
+    </td>
+    <td width="70%" style="padding: 25px 25px 15px 25px;" valign="middle">
+      <table width="100%" height="14" bgcolor="#0B1120" style="border-radius: 7px; border-collapse: collapse;">
+        <tr><td width="90%" bgcolor="#06B6D4" style="border-radius: 7px;"></td><td width="10%"></td></tr>
       </table>
+      <p align="right" style="color: #06B6D4; margin: 6px 0 0 0; font-size: 12px; font-weight: bold; letter-spacing: 1px;">90%</p>
+    </td>
+  </tr>
+  <!-- SKILL 2 -->
+  <tr>
+    <td width="30%" style="padding: 15px 25px;">
+      <b style="color: #F8FAFC; font-size: 16px;">Power BI & DAX Mastery</b>
+    </td>
+    <td width="70%" style="padding: 15px 25px;" valign="middle">
+      <table width="100%" height="14" bgcolor="#0B1120" style="border-radius: 7px; border-collapse: collapse;">
+        <tr><td width="85%" bgcolor="#3B82F6" style="border-radius: 7px;"></td><td width="15%"></td></tr>
+      </table>
+      <p align="right" style="color: #3B82F6; margin: 6px 0 0 0; font-size: 12px; font-weight: bold; letter-spacing: 1px;">85%</p>
+    </td>
+  </tr>
+  <!-- SKILL 3 -->
+  <tr>
+    <td width="30%" style="padding: 15px 25px;">
+      <b style="color: #F8FAFC; font-size: 16px;">AI Prompt Engineering & Automation</b>
+    </td>
+    <td width="70%" style="padding: 15px 25px;" valign="middle">
+      <table width="100%" height="14" bgcolor="#0B1120" style="border-radius: 7px; border-collapse: collapse;">
+        <tr><td width="75%" bgcolor="#10B981" style="border-radius: 7px;"></td><td width="25%"></td></tr>
+      </table>
+      <p align="right" style="color: #10B981; margin: 6px 0 0 0; font-size: 12px; font-weight: bold; letter-spacing: 1px;">75%</p>
+    </td>
+  </tr>
+  <!-- SKILL 4 -->
+  <tr>
+    <td width="30%" style="padding: 15px 25px 25px 25px;">
+      <b style="color: #F8FAFC; font-size: 16px;">Python for Data Science</b>
+    </td>
+    <td width="70%" style="padding: 15px 25px 25px 25px;" valign="middle">
+      <table width="100%" height="14" bgcolor="#0B1120" style="border-radius: 7px; border-collapse: collapse;">
+        <tr><td width="60%" bgcolor="#7C3AED" style="border-radius: 7px;"></td><td width="40%"></td></tr>
+      </table>
+      <p align="right" style="color: #7C3AED; margin: 6px 0 0 0; font-size: 12px; font-weight: bold; letter-spacing: 1px;">60%</p>
     </td>
   </tr>
 </table>
