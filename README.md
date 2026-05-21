@@ -1,94 +1,187 @@
+<!-- HERO / COVER SECTION -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&color2=06B6D4&height=300&section=header&text=SYED%20MASOOM&fontSize=60&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20AI%20ENTHUSIAST&descAlignY=55&descSize=20&descColor=06B6D4" width="100%" alt="Futuristic Hero Banner"/>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&color2=000000&height=250&section=header&text=Syed%20Masoom&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20Strategic%20Insights%20Creator&descAlignY=55&descSize=20&descColor=00f2fe&animation=fadeIn" width="100%" alt="Header" />
-  
-  <br>
+  <p align="center" style="color: #94A3B8; font-size: 16px;">
+    <i>Transforming Raw Data Into Strategic Business Decisions Through Analytics, Visualization & Artificial Intelligence</i>
+  </p>
 
-  📈 <img src="https://img.shields.io/badge/PROJECTED%20GROWTH-UPWARD-00f2fe?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Growth Chart" />
-  &nbsp;&nbsp;
-  🛠️ <img src="https://img.shields.io/badge/TECH%20ARSENAL-SQL%20|%20Power%20BI-333333?style=for-the-badge&logo=database&logoColor=00f2fe" alt="Tech Icons" />
-
-  <br>
-  <br>
-
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/CONTACT_ME-EMAIL-d4d4d4?style=flat-square&logo=gmail&logoColor=D14836" alt="Email"/></a>
-  <a href="YOUR_YOUTUBE"><img src="https://img.shields.io/badge/CONTENT-YOUTUBE-333333?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube"/></a>
-  
+  <a href="https://github.com/syed-masoom">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=SQL+Expert;Power+BI+Developer;Data+Storyteller;Business+Analyst;Python+Enthusiast;AI+Learner" alt="Typing SVG" />
+  </a>
 </div>
 
-<br>
-<hr style="border: 1px solid #333;">
-<br>
+<!-- CALL TO ACTION / SOCIAL LINKS SECTION -->
+<p align="center">
+  <a href="#projects-section"><img src="https://img.shields.io/badge/View_Projects-2563EB?style=for-the-badge&logo=codeigniter&logoColor=white" alt="View Projects"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/syed-masoom"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.me/YOUR_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+</p>
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="60%" valign="top" style="border: none; padding-right: 20px;">
-      <h2 style="color: #00f2fe;">🚀 Executive Blueprint</h2>
-      <p>Detail-oriented Data Analyst focused on converting complex datasets into actionable strategic intelligence. With a diverse background spanning Zoology and entrepreneurial ventures, I apply a unique analytical lens to business ecosystems, identifying optimization opportunities where others see raw numbers.</p>
-      <p>My core mission is to leverage data visualization, SQL architecture, and strategic storytelling to drive corporate efficiency and market positioning.</p>
-      <p><i>Currently exploring: AI integrations in financial modeling.</i></p>
-    </td>
-    <td width="40%" align="center" valign="middle" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=syed-masoom&show_icons=true&theme=dark&hide_border=true&title_color=00f2fe&icon_color=00f2fe&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<br><br>
 
-<br>
-<br>
+<!-- ABOUT ME SECTION (Premium Glassmorphism Card Style) -->
+<h2 align="center" style="color: #06B6D4;">✦ ABOUT ME ✦</h2>
 
-<div align="center">
-  <h2 style="color: #00f2fe;">// CORE_COMPETENCIES.exe //</h2>
-  <br>
-  <table style="border: none;">
-    <tr style="border: none;">
-      <td style="border: none; padding: 10px;"><b>Data Intelligence</b></td>
-      <td style="border: none; padding: 10px;">
-        <img src="https://img.shields.io/badge/SQL-333333?style=flat-square&logo=postgresql&logoColor=00f2fe" alt="SQL"/>
-        <img src="https://img.shields.io/badge/Power_BI-333333?style=flat-square&logo=powerbi&logoColor=f2c811" alt="Power BI"/>
-        <img src="https://img.shields.io/badge/DAX-333333?style=flat-square&logo=diagrams.net&logoColor=white" alt="DAX"/>
-        <img src="https://img.shields.io/badge/Excel-333333?style=flat-square&logo=microsoft-excel&logoColor=217346" alt="Excel"/>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none; padding: 10px;"><b>Digital Creation</b></td>
-      <td style="border: none; padding: 10px;">
-        <img src="https://img.shields.io/badge/Premiere_Pro-333333?style=flat-square&logo=adobe-premiere-pro&logoColor=9999FF" alt="Premiere Pro"/>
-        <img src="https://img.shields.io/badge/Canva-333333?style=flat-square&logo=canva&logoColor=00C4CC" alt="Canva"/>
-        <img src="https://img.shields.io/badge/AI_Research-333333?style=flat-square&logo=openai&logoColor=white" alt="AI Research"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-<br>
-
-<div align="center">
-  <h2 style="color: #00f2fe;">// RECENT_OUTPUTS //</h2>
-  <br>
-</div>
-
-<table align="center" width="100%">
+<table align="center" width="100%" bgcolor="#111827" style="border-radius: 15px; border: 1px solid #3B82F6;">
   <tr>
-    <td width="50%" align="center">
-      <h4>Executive Power BI Dashboard</h4>
-      <p>Analyzing retail growth trends and customer segmentation.</p>
-      <a href="#">[View Project]</a>
+    <td width="65%" valign="top" style="padding: 25px;">
+      <h3 style="color: #3B82F6;">Executive Summary</h3>
+      <p style="color: #F8FAFC;">I am a Data Analyst and Content Creator bridging the gap between analytical rigor and business strategy. Coming from a background in <b>Zoology</b>, I apply a unique, organic lens to complex business ecosystems—identifying patterns and growth opportunities where others merely see raw data.</p>
+      <p style="color: #F8FAFC;">Driven by an entrepreneurial mindset, I focus heavily on Direct-to-Consumer (D2C) brand architecture, translating market trends into actionable intelligence. My approach integrates robust data engineering with compelling storytelling, ensuring that every SQL query or Power BI dashboard directly influences key business decisions.</p>
+      <p style="color: #F8FAFC;">Currently, I am expanding my technical arsenal by researching AI innovations and business case studies, striving to build the future of automated, intelligent analytics.</p>
     </td>
-    <td width="50%" align="center">
-      <h4>SQL Market Basket Analysis</h4>
-      <p>Uncovering product purchasing correlations via data.</p>
-      <a href="#">[View Project]</a>
+    <td width="35%" valign="top" style="padding: 25px; border-left: 1px solid #1F2937;">
+      <h3 style="color: #7C3AED;">Quick Facts</h3>
+      <p style="color: #F8FAFC;">📍 <b>Location:</b> Darbhanga, Bihar</p>
+      <p style="color: #F8FAFC;">💼 <b>Role:</b> Data Analyst & Creator</p>
+      <p style="color: #F8FAFC;">🎯 <b>Specialization:</b> Data Visualization, D2C Strategy</p>
+      <p style="color: #F8FAFC;">🧠 <b>Focus Area:</b> Business Intelligence</p>
+      <p style="color: #F8FAFC;">🚀 <b>Currently Learning:</b> Python for Data Science</p>
+      <p style="color: #F8FAFC;">📈 <b>Career Goal:</b> Senior BI Strategist</p>
     </td>
   </tr>
 </table>
 
-<br>
-<hr style="border: 1px solid #333;">
-<br>
+<br><br>
+
+<!-- SKILLS & TECHNOLOGY SECTION -->
+<h2 align="center" style="color: #06B6D4;">✦ TECHNOLOGY ARSENAL ✦</h2>
+
+<div align="center" bgcolor="#0B1120">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
+</div>
+
+<br><br>
+
+<!-- DATA ANALYTICS PROCESS SECTION -->
+<h2 align="center" style="color: #06B6D4;">✦ ANALYTICS WORKFLOW ✦</h2>
+
+<p align="center">
+  <kbd style="background-color:#111827; color:#3B82F6; padding:10px; border-radius:5px;">1. Business Problem</kbd> ➔
+  <kbd style="background-color:#111827; color:#06B6D4; padding:10px; border-radius:5px;">2. Data Collection</kbd> ➔
+  <kbd style="background-color:#111827; color:#10B981; padding:10px; border-radius:5px;">3. Data Cleaning</kbd> ➔
+  <kbd style="background-color:#111827; color:#7C3AED; padding:10px; border-radius:5px;">4. Data Analysis</kbd> <br><br>➔
+  <kbd style="background-color:#111827; color:#3B82F6; padding:10px; border-radius:5px;">5. Visualization</kbd> ➔
+  <kbd style="background-color:#111827; color:#06B6D4; padding:10px; border-radius:5px;">6. Business Insights</kbd> ➔
+  <kbd style="background-color:#111827; color:#10B981; padding:10px; border-radius:5px;">7. Decision Making</kbd>
+</p>
+
+<br><br id="projects-section">
+
+<!-- PROJECTS SECTION -->
+<h2 align="center" style="color: #06B6D4;">✦ BUSINESS INTELLIGENCE DASHBOARDS ✦</h2>
+
+| Project Name | Business Problem | Tools Used | Key Insights | Link | Repository |
+| :--- | :--- | :--- | :--- | :---: | :---: |
+| **Sales Performance Dashboard** | Tracking YoY D2C revenue and product category performance to optimize inventory. | `Power BI` `SQL` `DAX` | Identified 20% growth in organic segments, leading to optimized ad spend. | [🔗](#) | [📁](#) |
+| **Customer Segmentation Analysis** | Understanding purchasing behavior to target high-LTV customers in e-commerce. | `SQL` `Excel` | Segmented users into 4 key groups, increasing target campaign ROI by 15%. | [🔗](#) | [📁](#) |
+| **Financial Analytics Dashboard** | Streamlining monthly expense reporting and predictive budgeting for retail ops. | `Power BI` `Excel` | Automated report generation, saving 12 hours of manual work per month. | [🔗](#) | [📁](#) |
+| **HR Analytics Dashboard** | High employee turnover in logistics department impacting operational efficiency. | `SQL` `Power BI` | Correlated overtime hours with attrition, prompting new shift-scheduling strategies. | [🔗](#) | [📁](#) |
+| **Market Basket Analysis** | Finding product correlations to enhance cross-selling and bundling strategies. | `Python` `SQL` | Uncovered 3 primary product pairings that increased AOV (Average Order Value) by 8%. | [🔗](#) | [📁](#) |
+
+<br><br>
+
+<!-- GITHUB ANALYTICS SECTION -->
+<h2 align="center" style="color: #06B6D4;">✦ SYSTEM METRICS ✦</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syed-masoom&theme=dark&hide_border=true&fire=00f2fe&ring=00f2fe&lbl_confirm=00f2fe" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syed-masoom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111827&title_color=06B6D4&icon_color=3B82F6&text_color=F8FAFC" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syed-masoom&theme=tokyonight&hide_border=true&background=111827&ring=06B6D4&fire=7C3AED&currStreakNum=F8FAFC" alt="GitHub Streak" width="48%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-masoom&layout=compact&theme=tokyonight&hide_border=true&bg_color=111827&title_color=06B6D4&text_color=F8FAFC" alt="Top Languages" width="48%" />
+</div>
+
+<br><br>
+
+<!-- SERVICES SECTION -->
+<h2 align="center" style="color: #06B6D4;">✦ CORE SERVICES ✦</h2>
+
+<table align="center" width="100%" bgcolor="#111827" style="border-radius: 10px;">
+  <tr align="center">
+    <td width="33%" style="padding: 20px;">
+      <h2>📊</h2>
+      <h4 style="color: #F8FAFC;">Dashboard Development</h4>
+      <p style="color: #94A3B8;">End-to-end interactive reporting using Power BI and DAX for live business metrics.</p>
+    </td>
+    <td width="33%" style="padding: 20px; border-left: 1px solid #1F2937; border-right: 1px solid #1F2937;">
+      <h2>🗄️</h2>
+      <h4 style="color: #F8FAFC;">SQL Data Engineering</h4>
+      <p style="color: #94A3B8;">Complex querying, database management, and ETL processes for clean data pipelines.</p>
+    </td>
+    <td width="33%" style="padding: 20px;">
+      <h2>🤖</h2>
+      <h4 style="color: #F8FAFC;">AI-Powered Analytics</h4>
+      <p style="color: #94A3B8;">Integrating modern AI tools and deep research to forecast trends and automate insights.</p>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<!-- CERTIFICATIONS & CURRENT LEARNING -->
+<table align="center" width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none;">
+      <h2 style="color: #06B6D4;">✦ CERTIFICATIONS ✦</h2>
+      <table width="100%" bgcolor="#111827">
+        <tr><td style="padding: 10px; color: #F8FAFC;">🏅 <b>Advanced SQL Certification</b> <br><i style="color: #94A3B8; font-size: 12px;">Issuing Organization</i></td></tr>
+        <tr><td style="padding: 10px; color: #F8FAFC;">🏅 <b>Power BI Data Analyst</b> <br><i style="color: #94A3B8; font-size: 12px;">Microsoft (Placeholder)</i></td></tr>
+        <tr><td style="padding: 10px; color: #F8FAFC;">🏅 <b>Data Analytics Professional</b> <br><i style="color: #94A3B8; font-size: 12px;">Google (Placeholder)</i></td></tr>
+      </table>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <h2 style="color: #06B6D4;">✦ SYSTEM UPGRADES ✦</h2>
+      <table width="100%" bgcolor="#111827">
+        <tr><td style="padding: 10px; color: #F8FAFC;">Advanced SQL <br><img src="https://progress-bar.dev/90/?scale=100&title=90%&width=300&color=06B6D4&suffix=" alt="90%" /></td></tr>
+        <tr><td style="padding: 10px; color: #F8FAFC;">Power BI & DAX <br><img src="https://progress-bar.dev/85/?scale=100&title=85%&width=300&color=3B82F6&suffix=" alt="85%" /></td></tr>
+        <tr><td style="padding: 10px; color: #F8FAFC;">Python for Data <br><img src="https://progress-bar.dev/60/?scale=100&title=60%&width=300&color=7C3AED&suffix=" alt="60%" /></td></tr>
+        <tr><td style="padding: 10px; color: #F8FAFC;">AI Automation <br><img src="https://progress-bar.dev/75/?scale=100&title=75%&width=300&color=10B981&suffix=" alt="75%" /></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<!-- CONTACT SECTION -->
+<h2 align="center" style="color: #06B6D4;">✦ INITIATE CONNECTION ✦</h2>
+
+<table align="center" width="60%" bgcolor="#111827" style="border-radius: 15px; border: 1px solid #7C3AED;">
+  <tr align="center">
+    <td style="padding: 30px;">
+      <h3 style="color: #F8FAFC;">Ready to Transform Your Data?</h3>
+      <p style="color: #94A3B8;">Available for freelance analytics projects, BI consulting, and full-time opportunities.</p>
+      <br>
+      <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+      <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+      <a href="https://wa.me/YOUR_NUMBER"><img src="https://img.shields.io/badge/Collaboration-10B981?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Collaboration"/></a>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<!-- FOOTER -->
+<div align="center">
+  <p style="color: #94A3B8;">Built with ❤️ using Data, Analytics & AI</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&color2=0B1120&height=100&section=footer" width="100%" />
 </div>
