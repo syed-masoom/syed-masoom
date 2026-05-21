@@ -142,24 +142,24 @@
     <td width="50%" valign="top" style="border: none;">
       <h2 style="color: #06B6D4;">✦ CERTIFICATIONS ✦</h2>
       <table width="100%" bgcolor="#111827">
-        <tr><td style="padding: 10px; color: #F8FAFC;">🏅 <b>Advanced SQL Certification</b> <br><i style="color: #94A3B8; font-size: 12px;">Issuing Organization</i></td></tr>
-        <tr><td style="padding: 10px; color: #F8FAFC;">🏅 <b>Power BI Data Analyst</b> <br><i style="color: #94A3B8; font-size: 12px;">Microsoft (Placeholder)</i></td></tr>
-        <tr><td style="padding: 10px; color: #F8FAFC;">🏅 <b>Data Analytics Professional</b> <br><i style="color: #94A3B8; font-size: 12px;">Google (Placeholder)</i></td></tr>
+        <!-- Upgraded to premium credential badges -->
+        <tr><td style="padding: 10px; color: #F8FAFC;"><img src="https://img.shields.io/badge/CERTIFIED-Advanced_SQL-06B6D4?style=flat-square&logo=datacamp&logoColor=white" /><br><i style="color: #94A3B8; font-size: 12px;">Issuing Organization</i></td></tr>
+        <tr><td style="padding: 10px; color: #F8FAFC;"><img src="https://img.shields.io/badge/CERTIFIED-Power_BI_Analyst-3B82F6?style=flat-square&logo=microsoft&logoColor=white" /><br><i style="color: #94A3B8; font-size: 12px;">Microsoft Data (Placeholder)</i></td></tr>
+        <tr><td style="padding: 10px; color: #F8FAFC;"><img src="https://img.shields.io/badge/CERTIFIED-Data_Analytics-10B981?style=flat-square&logo=google&logoColor=white" /><br><i style="color: #94A3B8; font-size: 12px;">Google Professional (Placeholder)</i></td></tr>
       </table>
     </td>
     <td width="50%" valign="top" style="border: none;">
       <h2 style="color: #06B6D4;">✦ SYSTEM UPGRADES ✦</h2>
       <table width="100%" bgcolor="#111827">
-        <tr><td style="padding: 10px; color: #F8FAFC;">Advanced SQL <br><img src="https://progress-bar.dev/90/?scale=100&title=90%&width=300&color=06B6D4&suffix=" alt="90%" /></td></tr>
-        <tr><td style="padding: 10px; color: #F8FAFC;">Power BI & DAX <br><img src="https://progress-bar.dev/85/?scale=100&title=85%&width=300&color=3B82F6&suffix=" alt="85%" /></td></tr>
-        <tr><td style="padding: 10px; color: #F8FAFC;">Python for Data <br><img src="https://progress-bar.dev/60/?scale=100&title=60%&width=300&color=7C3AED&suffix=" alt="60%" /></td></tr>
-        <tr><td style="padding: 10px; color: #F8FAFC;">AI Automation <br><img src="https://progress-bar.dev/75/?scale=100&title=75%&width=300&color=10B981&suffix=" alt="75%" /></td></tr>
+        <!-- Replaced broken image API with unbreakable terminal-style loading bars -->
+        <tr><td style="padding: 10px; color: #F8FAFC;">Advanced SQL <br><span style="color: #06B6D4; letter-spacing: 2px;">█████████░ 90%</span></td></tr>
+        <tr><td style="padding: 10px; color: #F8FAFC;">Power BI & DAX <br><span style="color: #3B82F6; letter-spacing: 2px;">████████░░ 85%</span></td></tr>
+        <tr><td style="padding: 10px; color: #F8FAFC;">Python for Data <br><span style="color: #7C3AED; letter-spacing: 2px;">██████░░░░ 60%</span></td></tr>
+        <tr><td style="padding: 10px; color: #F8FAFC;">AI Automation <br><span style="color: #10B981; letter-spacing: 2px;">███████░░░ 75%</span></td></tr>
       </table>
     </td>
   </tr>
 </table>
-
-<br><br>
 
 <!-- CONTACT SECTION -->
 <h2 align="center" style="color: #06B6D4;">✦ INITIATE CONNECTION ✦</h2>
