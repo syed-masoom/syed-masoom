@@ -1,6 +1,6 @@
 <!-- HERO / COVER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&color2=06B6D4&height=300&section=header&text=Masoom Naushad&fontSize=60&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20AI%20ENTHUSIAST&descAlignY=55&descSize=20&descColor=06B6D4" width="100%" alt="Futuristic Hero Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&color2=06B6D4&height=300&section=header&text=Masoom %Naushad&fontSize=60&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20AI%20ENTHUSIAST&descAlignY=55&descSize=20&descColor=06B6D4" width="100%" alt="Futuristic Hero Banner"/>
   
   <p align="center" style="color: #94A3B8; font-size: 16px;">
     <i>Transforming Raw Data Into Strategic Business Decisions Through Analytics, Visualization & Artificial Intelligence</i>
