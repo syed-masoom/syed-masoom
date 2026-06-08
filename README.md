@@ -92,7 +92,7 @@
 
 | Project Name | Business Problem | Tools Used | Key Insights | Link | Repository |
 | :--- | :--- | :--- | :--- | :---: | :---: |
-| **Sales Performance Dashboard** | Tracking YoY D2C revenue and product category performance to optimize inventory. | `Power BI` `SQL` `DAX` | Identified 20% growth in organic segments, leading to optimized ad spend. | [🔗](#) | [📁](#) |
+| **Sales Performance Dashboard** | Tracking YoY D2C revenue and product category performance to optimize inventory. | `Power BI` `DAX` | Identified 20% growth in organic segments, leading to optimized ad spend. | [🔗](https://github.com/syed-masoom/Mobile-Store-Sales-Analysis.git) | [📁](https://github.com/syed-masoom/Mobile-Store-Sales-Analysis.git) |
 | **Customer Segmentation Analysis** | Understanding purchasing behavior to target high-LTV customers in e-commerce. | `SQL` `Excel` | Segmented users into 4 key groups, increasing target campaign ROI by 15%. | [🔗](#) | [📁](#) |
 | **Financial Analytics Dashboard** | Streamlining monthly expense reporting and predictive budgeting for retail ops. | `Power BI` `Excel` | Automated report generation, saving 12 hours of manual work per month. | [🔗](#) | [📁](#) |
 | **HR Analytics Dashboard** | High employee turnover in logistics department impacting operational efficiency. | `SQL` `Power BI` | Correlated overtime hours with attrition, prompting new shift-scheduling strategies. | [🔗](#) | [📁](#) |
