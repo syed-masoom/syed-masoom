@@ -88,7 +88,7 @@
 <br><br id="projects-section">
 
 <!-- PROJECTS SECTION -->
-<h2 align="center" style="color: #06B6D4;">✦ BUSINESS INTELLIGENCE DASHBOARDS ✦</h2>
+<h2 align="center" style="color: #06B6D4;">✦ PROJECTS ✦</h2>
 
 | Project Name | Business Problem | Tools Used | Key Insights | Link | Repository |
 | :--- | :--- | :--- | :--- | :---: | :---: |
