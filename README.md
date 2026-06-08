@@ -36,11 +36,11 @@
     </td>
     <td width="35%" valign="top" style="padding: 25px; border-left: 1px solid #1F2937;">
       <h3 style="color: #7C3AED;">Quick Facts</h3>
-      <p style="color: #F8FAFC;">📍 <b>Location:</b> Darbhanga, Bihar</p>
-      <p style="color: #F8FAFC;">💼 <b>Role:</b> Data Analyst & Creator</p>
-      <p style="color: #F8FAFC;">🎯 <b>Specialization:</b> Data Visualization, D2C Strategy</p>
-      <p style="color: #F8FAFC;">🧠 <b>Focus Area:</b> Business Intelligence</p>
-      <p style="color: #F8FAFC;">🚀 <b>Currently Learning:</b> Python for Data Science</p>
+      <p style="color: #F8FAFC;">📍 <b>Location:</b> Mumbai</p>
+      <p style="color: #F8FAFC;">💼 <b>Role:</b> Data & Business Analyst</p>
+      <p style="color: #F8FAFC;">🎯 <b>Specialization:</b> Data Visualization, SQL, Python, Excel</p>
+      <p style="color: #F8FAFC;">🧠 <b>Focus Area:</b> D2C, E-Commerce & Product Base Company</p>
+      <p style="color: #F8FAFC;">🚀 <b>Currently Learning:</b> Python for Data Science & Automaation</p>
       <p style="color: #F8FAFC;">📈 <b>Career Goal:</b> Senior BI Strategist</p>
     </td>
   </tr>
