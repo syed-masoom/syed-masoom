@@ -92,7 +92,7 @@
 
 | Project Name | Business Problem | Tools Used | Key Insights | Link | Repository |
 | :--- | :--- | :--- | :--- | :---: | :---: |
-| **Sales RTO Analysis** | Tracking return to oringin (RTO) orders of D2C Beauty Brand. | `Power BI` `DAX` | Identified 20% growth in organic segments, leading to optimized ad spend. | [🔗](https://github.com/syed-masoom/Power-Bi-Project.git) | [📁](https://github.com/syed-masoom/Power-Bi-Project.git) |
+| **Sales RTO Analysis** | Tracking return to oringin (RTO) orders of D2C Beauty Brand. | `Power BI` `DAX` | Identified the overall 14% RTO rate. Most RTO orders come from Cash on Delivery (COD) payments.. | [🔗](https://github.com/syed-masoom/Power-Bi-Project.git) | [📁](https://github.com/syed-masoom/Power-Bi-Project.git) |
 | **Customer Segmentation Analysis** | Understanding purchasing behavior to target high-LTV customers in e-commerce. | `SQL` `Excel` | Segmented users into 4 key groups, increasing target campaign ROI by 15%. | [🔗](#) | [📁](#) |
 | **Financial Analytics Dashboard** | Streamlining monthly expense reporting and predictive budgeting for retail ops. | `Power BI` `Excel` | Automated report generation, saving 12 hours of manual work per month. | [🔗](#) | [📁](#) |
 | **HR Analytics Dashboard** | High employee turnover in logistics department impacting operational efficiency. | `SQL` `Power BI` | Correlated overtime hours with attrition, prompting new shift-scheduling strategies. | [🔗](#) | [📁](#) |
