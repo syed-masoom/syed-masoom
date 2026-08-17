@@ -93,8 +93,8 @@
 | Project Name | Business Problem | Tools Used | Key Insights | Link | Repository |
 | :--- | :--- | :--- | :--- | :---: | :---: |
 | **Sales RTO Analysis** | Tracking return to oringin (RTO) orders of D2C Beauty Brand. | `Power BI` `DAX` | Identified the overall 14% RTO rate. Most RTO orders come from Cash on Delivery (COD) payments.. | [🔗](https://github.com/syed-masoom/Power-Bi-Project.git) | [📁](https://github.com/syed-masoom/Power-Bi-Project.git) |
-| **D2C Brand End 2 End Analysis** | Understand the overall sales pattern, Segment customers based on RFM and understand traffic & campaign performace and more... | `Excel` `SQL` `Power Bi` | Find the causes of Revenue and Profit leakage due to Around 50-60% of orders | [🔗](https://github.com/syed-masoom/SQL-Project.git) | [📁](https://github.com/syed-masoom/SQL-Project.git) |
-| **SQL Project** | Streamlining monthly expense reporting and predictive budgeting for retail ops. | `Power BI` `Excel` | Automated report generation, saving 12 hours of manual work per month. | [🔗](#) | [📁](#) |
+| **D2C Brand End 2 End Analysis** | Understand the overall sales pattern, Segment customers based on RFM and understand traffic & campaign performace and more... | `Excel` `SQL` `Power Bi` | Find the causes of Revenue and Profit leakage due to Around 50-60% of orders | [🔗](https://github.com/syed-masoom/Complete-Data-Analysis-Project.git) | [📁](https://github.com/syed-masoom/Complete-Data-Analysis-Project.git) |
+| **Marketing Campaign Analysis** | Understand marketing campaign performace track budgets, ROAS of different channels. | `SQL` `My SQL` | Automated report generation, saving 12 hours of manual work per month. | [🔗](#) | [📁](#) |
 | **HR Analytics Dashboard** | High employee turnover in logistics department impacting operational efficiency. | `SQL` `Power BI` | Correlated overtime hours with attrition, prompting new shift-scheduling strategies. | [🔗](#) | [📁](#) |
 | **Market Basket Analysis** | Finding product correlations to enhance cross-selling and bundling strategies. | `Python` `SQL` | Uncovered 3 primary product pairings that increased AOV (Average Order Value) by 8%. | [🔗](#) | [📁](#) |
 
