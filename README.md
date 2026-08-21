@@ -30,9 +30,21 @@
   <tr>
     <td width="65%" valign="top" style="padding: 25px;">
       <h3 style="color: #3B82F6;">Executive Summary</h3>
-      <p style="color: #F8FAFC;">I am a Data Analyst and Content Creator bridging the gap between analytical rigor and business strategy. Coming from a background in <b>Zoology</b>, I apply a unique, organic lens to complex business ecosystems—identifying patterns and growth opportunities where others merely see raw data.</p>
-      <p style="color: #F8FAFC;">Driven by an entrepreneurial mindset, I focus heavily on Direct-to-Consumer (D2C) brand architecture, translating market trends into actionable intelligence. My approach integrates robust data engineering with compelling storytelling, ensuring that every SQL query or Power BI dashboard directly influences key business decisions.</p>
-      <p style="color: #F8FAFC;">Currently, I am expanding my technical arsenal by researching AI innovations and business case studies, striving to build the future of automated, intelligent analytics.</p>
+      <p style="color: #F8FAFC;">I am a Data & Business Analyst bridging the gap between analytical rigor and business strategy with strong skills in SQL, Power BI, and Excel, combined with a strong understanding of business and data-driven decision-making. Skilled in transforming raw, complex data into meaningful insights through data analysis, visualization, and business storytelling. Rather than simply building dashboards or writing queries, I focus on understanding the business problem, identifying key drivers and opportunities, and translating analysis into actionable recommendations that support impactful business decisions.
+</p>
+      <p style="color: #F8FAFC;"> What I bring to the table:
+
+ → SQL for pulling and shaping data that matters
+
+ → Power BI for turning that data into visuals people actually understand
+
+ → Excel for the heavy lifting — modeling, analysis, the unglamorous stuff that gets it right
+
+ → AI tools to work faster and think sharper
+
+ → Business acumen to make sure every analysis ties back to what actually matters: revenue, efficiency, growth
+</p>
+      <p style="color: #F8FAFC;"> I'm not interested in being "good with data." I'm interested in being the person a business trusts to tell them what their data means — and what to do about it </p>
     </td>
     <td width="35%" valign="top" style="padding: 25px; border-left: 1px solid #1F2937;">
       <h3 style="color: #7C3AED;">Quick Facts</h3>
