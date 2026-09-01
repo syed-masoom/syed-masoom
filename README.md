@@ -173,62 +173,7 @@
     </td>
   </tr>
 </table>
-
 <br><br>
-
-<!-- CURRENT LEARNING / SYSTEM UPGRADES SECTION -->
-<h2 align="center" style="color: #06B6D4;">✦ SYSTEM UPGRADES & PROGRESS ✦</h2>
-
-<table align="center" width="100%" bgcolor="#111827" style="border-radius: 12px; border: 1px solid #1F2937; border-collapse: collapse;">
-  <!-- SKILL 1 -->
-  <tr>
-    <td width="30%" style="padding: 25px 25px 15px 25px;">
-      <b style="color: #F8FAFC; font-size: 16px;">Advanced Data Engineering (SQL)</b>
-    </td>
-    <td width="70%" style="padding: 25px 25px 15px 25px;" valign="middle">
-      <table width="100%" height="14" bgcolor="#0B1120" style="border-radius: 7px; border-collapse: collapse;">
-        <tr><td width="90%" bgcolor="#06B6D4" style="border-radius: 7px;"></td><td width="10%"></td></tr>
-      </table>
-      <p align="right" style="color: #06B6D4; margin: 6px 0 0 0; font-size: 12px; font-weight: bold; letter-spacing: 1px;">90%</p>
-    </td>
-  </tr>
-  <!-- SKILL 2 -->
-  <tr>
-    <td width="30%" style="padding: 15px 25px;">
-      <b style="color: #F8FAFC; font-size: 16px;">Power BI & DAX Mastery</b>
-    </td>
-    <td width="70%" style="padding: 15px 25px;" valign="middle">
-      <table width="100%" height="14" bgcolor="#0B1120" style="border-radius: 7px; border-collapse: collapse;">
-        <tr><td width="85%" bgcolor="#3B82F6" style="border-radius: 7px;"></td><td width="15%"></td></tr>
-      </table>
-      <p align="right" style="color: #3B82F6; margin: 6px 0 0 0; font-size: 12px; font-weight: bold; letter-spacing: 1px;">85%</p>
-    </td>
-  </tr>
-  <!-- SKILL 3 -->
-  <tr>
-    <td width="30%" style="padding: 15px 25px;">
-      <b style="color: #F8FAFC; font-size: 16px;">AI Prompt Engineering & Automation</b>
-    </td>
-    <td width="70%" style="padding: 15px 25px;" valign="middle">
-      <table width="100%" height="14" bgcolor="#0B1120" style="border-radius: 7px; border-collapse: collapse;">
-        <tr><td width="75%" bgcolor="#10B981" style="border-radius: 7px;"></td><td width="25%"></td></tr>
-      </table>
-      <p align="right" style="color: #10B981; margin: 6px 0 0 0; font-size: 12px; font-weight: bold; letter-spacing: 1px;">75%</p>
-    </td>
-  </tr>
-  <!-- SKILL 4 -->
-  <tr>
-    <td width="30%" style="padding: 15px 25px 25px 25px;">
-      <b style="color: #F8FAFC; font-size: 16px;">Python for Data Science</b>
-    </td>
-    <td width="70%" style="padding: 15px 25px 25px 25px;" valign="middle">
-      <table width="100%" height="14" bgcolor="#0B1120" style="border-radius: 7px; border-collapse: collapse;">
-        <tr><td width="60%" bgcolor="#7C3AED" style="border-radius: 7px;"></td><td width="40%"></td></tr>
-      </table>
-      <p align="right" style="color: #7C3AED; margin: 6px 0 0 0; font-size: 12px; font-weight: bold; letter-spacing: 1px;">60%</p>
-    </td>
-  </tr>
-</table>
 
 <!-- CONTACT SECTION -->
 <h2 align="center" style="color: #06B6D4;">✦ INITIATE CONNECTION ✦</h2>
