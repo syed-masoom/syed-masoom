@@ -145,7 +145,7 @@
       <p style="color: #94A3B8; margin: 5px 0 0 0; font-size: 14px;"><i>Demonstrating expertise in complex querying and database optimization.</i></p>
     </td>
     <td width="20%" align="center" style="padding: 25px; border-bottom: 1px solid #1F2937;">
-      <img src="https://www.datacamp.com/completed/statement-of-accomplishment/track/a1336cf36a8504f3f63a3b6021c4701e38d29471?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa"/>
+      <img src="https://www.datacamp.com/completed/statement-of-accomplishment/track/a1336cf36a8504f3f63a3b6021c4701e38d29471?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa" alt="Verified"/>
     </td>
   </tr>
   <tr>
