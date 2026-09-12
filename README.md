@@ -14,7 +14,7 @@
 <!-- CALL TO ACTION / SOCIAL LINKS SECTION -->
 <p align="center">
   <a href="#projects-section"><img src="https://img.shields.io/badge/View_Projects-2563EB?style=for-the-badge&logo=codeigniter&logoColor=white" alt="View Projects"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/md-masoom-naushad"/></a>
+  <a href="https://www.linkedin.com/in/md-masoom-naushad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/md-masoom-naushad"/></a>
   <a href="https://github.com/syed-masoom"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="masoomsyed107@gmail.com"/></a>
   <a href="https://wa.me/YOUR_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
