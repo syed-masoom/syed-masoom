@@ -184,8 +184,8 @@
       <h3 style="color: #F8FAFC;">Ready to Transform Your Data?</h3>
       <p style="color: #94A3B8;">Available for freelance analytics projects, BI consulting, and full-time opportunities.</p>
       <br>
-      <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+      <a href="masoomsyed107@gmail.com"><img src="https://img.shields.io/badge/Email_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+      <a href="https://www.linkedin.com/in/md-masoom-naushad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
       <a href="https://wa.me/YOUR_NUMBER"><img src="https://img.shields.io/badge/Collaboration-10B981?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Collaboration"/></a>
     </td>
   </tr>
