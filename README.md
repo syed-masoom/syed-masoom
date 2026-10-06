@@ -236,7 +236,7 @@ A selection of business-focused analytics projects built around real-world scena
 | **D2C Customer & RFM Analysis** | Understand customer value, retention and purchasing behavior | SQL · Power BI | Developed customer segmentation using RFM methodology | [View](https://github.com/syed-masoom/Complete-Data-Analysis-Project.git) |
 | **Marketing Campaign Analysis** | Evaluate campaign performance and customer acquisition | MySQL · Power BI | Identified campaign-level performance and conversion patterns | [View](https://github.com/syed-masoom/Complete-Data-Analysis-Project.git) |
 | **Excel Sales Dashboard** | Improve visibility into sales and operational performance | Excel · Power Query | Built an interactive management reporting solution | [View](https://github.com/syed-masoom/Sales-Performance-MIS-Dashboard-Microsoft-Excel.git) |
-| **Banking & Loan Analytics** | Analyze customers, loans and financial risk indicators | SQL · Power BI | Created business KPIs and customer/loan performance analysis | [View](https://github.com/YOUR-USERNAME/YOUR-REPO) |
+| **Banking & Loan Analytics** | Analyze customers, loans and financial risk indicators | SQL · Power BI | Created business KPIs and customer/loan performance analysis | [View](https://github.com/syed-masoom/Retail-Banking-Analytics.git) |
 
 ---
 
