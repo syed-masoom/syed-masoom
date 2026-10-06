@@ -231,9 +231,9 @@ A selection of business-focused analytics projects built around real-world scena
 
 | Project | Business Problem | Tools | Key Outcome | Repository |
 |:--|:--|:--|:--|:--:|
-| **Sales RTO Analysis** | Identify COD/RTO drivers and improve order profitability | Power BI · SQL | Analyzed RTO patterns, payment behavior and profitability | [View](https://github.com/YOUR-USERNAME/YOUR-REPO) |
+| **Sales RTO Analysis** | Diagnose RTO drivers and improve order profitability | Power BI · SQL | Analyzed RTO patterns, payment behavior and profitability | [View](https://github.com/syed-masoom/Power-Bi-Project.git) |
 | **D2C Customer & RFM Analysis** | Understand customer value, retention and purchasing behavior | SQL · Power BI | Developed customer segmentation using RFM methodology | [View](https://github.com/YOUR-USERNAME/YOUR-REPO) |
-| **Marketing Campaign Analysis** | Evaluate campaign performance and customer acquisition | MySQL · Power BI | Identified campaign-level performance and conversion patterns | [View](https://github.com/YOUR-USERNAME/YOUR-REPO) |
+| **Marketing Campaign Analysis** | Evaluate campaign performance and customer acquisition | MySQL · Power BI | Identified campaign-level performance and conversion patterns | [View](https://github.com/syed-masoom/Complete-Data-Analysis-Project.git) |
 | **Excel Sales Dashboard** | Improve visibility into sales and operational performance | Excel · Power Query | Built an interactive management reporting solution | [View](https://github.com/syed-masoom/Sales-Performance-MIS-Dashboard-Microsoft-Excel.git) |
 | **Retail Analytics** | Understand product, customer and revenue performance | Python · SQL | Performed exploratory analysis and generated actionable insights | [View](https://github.com/YOUR-USERNAME/YOUR-REPO) |
 | **Banking & Loan Analytics** | Analyze customers, loans and financial risk indicators | SQL · Power BI | Created business KPIs and customer/loan performance analysis | [View](https://github.com/YOUR-USERNAME/YOUR-REPO) |
