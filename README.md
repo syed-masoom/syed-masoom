@@ -3,64 +3,57 @@
      FUTURISTIC DATA ANALYTICS GITHUB PROFILE
 ========================================================= -->
 
-<!-- =========================================================
+<!-- =========================
      HERO / BANNER
-========================================================= -->
+========================= -->
 
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/syed-masoom/syed-masoom/main/Github%20banner%20image.png"
+src="https://github.com/syed-masoom/syed-masoom/blob/main/Github%20banner%20image.png?raw=true"
 width="100%"
 alt="Masoom Naushad - Data Analyst"
 >
 
 <br><br>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=700&lines=DATA+ANALYST;BUSINESS+INTELLIGENCE+ENTHUSIAST;SQL+%7C+POWER+BI+%7C+PYTHON+%7C+EXCEL;TURNING+DATA+INTO+BUSINESS+IMPACT"
-alt="Typing Animation"
->
-
-<br><br>
-
 <a href="#selected-projects">
-<img src="https://img.shields.io/badge/VIEW%20MY%20PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/↗%20VIEW%20MY%20PROJECTS-1683F7?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-&nbsp;
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/IN%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-&nbsp;
+<a href="https://github.com/syed-masoom">
+<img src="https://img.shields.io/badge/⌘%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/✉%20EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-&nbsp;
 
 <a href="https://wa.me/YOUR_WHATSAPP_NUMBER">
 <img src="https://img.shields.io/badge/WHATSAPP-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
-&nbsp;
+</div>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
+<br>
 
-<br><br>
+<!-- =========================================================
+     PROFILE TAGS
+========================================================= -->
 
-<img src="https://img.shields.io/badge/DATA%20DRIVEN-0F172A?style=flat-square&logo=databricks&logoColor=3B82F6">
-&nbsp;
-<img src="https://img.shields.io/badge/INSIGHT%20FOCUSED-0F172A?style=flat-square&logo=googleanalytics&logoColor=60A5FA">
-&nbsp;
-<img src="https://img.shields.io/badge/BUSINESS%20ORIENTED-0F172A?style=flat-square&logo=briefcase&logoColor=3B82F6">
-&nbsp;
-<img src="https://img.shields.io/badge/GROWTH%20MINDSET-0F172A?style=flat-square&logo=trendingup&logoColor=10B981">
+<div align="center">
+
+<img src="https://img.shields.io/badge/▥%20DATA%20DRIVEN-06101C?style=flat-square&labelColor=06101C&color=1683F7">
+
+<img src="https://img.shields.io/badge/⚙%20INSIGHT%20FOCUSED-06101C?style=flat-square&labelColor=06101C&color=1683F7">
+
+<img src="https://img.shields.io/badge/▣%20BUSINESS%20ORIENTED-06101C?style=flat-square&labelColor=06101C&color=1683F7">
+
+<img src="https://img.shields.io/badge/↗%20GROWTH%20MINDSET-06101C?style=flat-square&labelColor=06101C&color=10B981">
 
 </div>
 
@@ -72,73 +65,78 @@ alt="Typing Animation"
      ABOUT ME
 ========================================================= -->
 
-<h2 align="center">✦ ABOUT ME ✦</h2>
-
-<br>
+<h2 align="center">👤 &nbsp; ABOUT ME</h2>
 
 <table width="100%" cellspacing="0" cellpadding="18">
 
 <tr>
 
-<td width="68%" valign="top">
+<td width="67%" valign="top">
 
-### Executive Summary
+<h3>Executive Summary</h3>
 
-I am a **Data Analyst** with a strong blend of analytical skills, business acumen and a passion for solving real-world business problems through data.
+<p>
+I am a <b>Data Analyst</b> with a strong blend of analytical
+skills, business acumen, and a passion for solving
+real-world problems using data.
+</p>
 
-I work with **SQL, Power BI, Python and Excel** to extract data, clean and transform datasets, build analytical models, develop dashboards and communicate insights that support better decision-making.
+<p>
+I specialize in <b>SQL, Power BI, Python and Excel</b> to
+analyze data, build interactive dashboards, identify patterns,
+and deliver actionable insights that support better
+business decisions.
+</p>
 
-My approach starts with understanding the **business problem first** and then using data to uncover patterns, explain performance, identify opportunities and recommend actions.
+<p>
+I enjoy understanding business problems, exploring data,
+finding patterns, and communicating insights in a simple
+and impactful way.
+</p>
 
-### What I Bring
+<p>
+My analytical mindset is built around one simple principle:
+</p>
 
-• Strong SQL & analytical thinking  
-• Interactive Power BI dashboards  
-• Excel-based reporting & analysis  
-• Python for data analysis & automation  
-• AI-assisted analytics & productivity  
-• Business-focused data storytelling
-
-> **My goal is not just to report what happened — but to explain why it happened and what the business should do next.**
+<blockquote>
+<b>Turn data into insights. Turn insights into decisions.</b>
+</blockquote>
 
 </td>
 
-<td width="32%" valign="top">
+<td width="33%" valign="top">
 
-### Quick Facts
+<h3>Quick Facts</h3>
 
-📍 **Location**  
+<p>
+📍 <b>Location</b><br>
 India
+</p>
 
-<br>
-
-💼 **Role**  
+<p>
+💼 <b>Role</b><br>
 Data Analyst
+</p>
 
-<br>
+<p>
+🎯 <b>Focus Area</b><br>
+Data Analytics · BI · AI
+</p>
 
-🎓 **Education**  
-B.Sc. Zoology (Hons)
+<p>
+🧠 <b>Specialization</b><br>
+SQL · Power BI · Python · Excel
+</p>
 
-<br>
+<p>
+📚 <b>Currently Learning</b><br>
+Advanced Python · AI
+</p>
 
-🎯 **Specialization**  
-Data Analytics · SQL · Power BI · Python · Excel
-
-<br>
-
-🔎 **Focus Areas**  
-D2C · E-Commerce · Retail · Business Analytics
-
-<br>
-
-📚 **Currently Learning**  
-Advanced Python · AI · Automation
-
-<br>
-
-🚀 **Career Goal**  
-Become a business-focused Data Analyst who creates measurable impact through data.
+<p>
+🚀 <b>Career Goal</b><br>
+Create measurable business impact through data
+</p>
 
 </td>
 
@@ -154,165 +152,153 @@ Become a business-focused Data Analyst who creates measurable impact through dat
      TECHNOLOGY ARSENAL
 ========================================================= -->
 
-<h2 align="center">✦ TECHNOLOGY ARSENAL ✦</h2>
+<h2 align="center">🛠️ &nbsp; SKILLS & TECHNOLOGIES</h2>
 
 <br>
 
-<div align="center">
-
-<table width="100%" cellspacing="10" cellpadding="8">
+<table width="100%" cellspacing="8">
 
 <tr>
 
-<td align="center">
+<td align="center" width="12.5%">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48">
 
-<br>
+<br><br>
 
 <b>Python</b>
 
 <br>
 
-<sub>Analytics · Automation</sub>
+<sub>
+Data Analysis<br>
+Automation
+</sub>
 
 </td>
 
-<td align="center">
+<td align="center" width="12.5%">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48">
 
-<br>
+<br><br>
 
 <b>MySQL</b>
 
 <br>
 
-<sub>SQL · Data Analysis</sub>
+<sub>
+Data Querying<br>
+Data Analysis
+</sub>
 
 </td>
 
-<td align="center">
+<td align="center" width="12.5%">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48">
 
-<br>
+<br><br>
 
 <b>SQL Server</b>
 
 <br>
 
-<sub>Database Analysis</sub>
+<sub>
+Database Analysis<br>
+Complex Queries
+</sub>
 
 </td>
 
-<td align="center">
+<td align="center" width="12.5%">
 
 <img src="https://img.icons8.com/color/96/power-bi.png" width="48">
 
-<br>
+<br><br>
 
 <b>Power BI</b>
 
 <br>
 
-<sub>Dashboard · DAX</sub>
+<sub>
+Dashboard<br>
+Visualization
+</sub>
 
 </td>
 
-<td align="center">
+<td align="center" width="12.5%">
 
 <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="48">
 
-<br>
+<br><br>
 
 <b>Excel</b>
 
 <br>
 
-<sub>Reporting · Power Query</sub>
+<sub>
+Analysis<br>
+Reporting
+</sub>
 
 </td>
 
-</tr>
-
-<tr>
-
-<td align="center">
+<td align="center" width="12.5%">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48">
 
-<br>
+<br><br>
 
 <b>Pandas</b>
 
 <br>
 
-<sub>Data Manipulation</sub>
+<sub>
+Data Manipulation<br>
+Data Cleaning
+</sub>
 
 </td>
 
-<td align="center">
+<td align="center" width="12.5%">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48">
 
-<br>
+<br><br>
 
 <b>NumPy</b>
 
 <br>
 
-<sub>Numerical Analysis</sub>
+<sub>
+Numerical Data<br>
+Processing
+</sub>
 
 </td>
 
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48">
-
-<br>
-
-<b>Jupyter</b>
-
-<br>
-
-<sub>Exploratory Analysis</sub>
-
-</td>
-
-<td align="center">
+<td align="center" width="12.5%">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48">
 
-<br>
+<br><br>
 
-<b>Git</b>
-
-<br>
-
-<sub>Version Control</sub>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48">
+<b>Git & GitHub</b>
 
 <br>
 
-<b>GitHub</b>
-
-<br>
-
-<sub>Project Management</sub>
+<sub>
+Version Control<br>
+Projects
+</sub>
 
 </td>
 
 </tr>
 
 </table>
-
-</div>
 
 <br>
 
@@ -322,80 +308,90 @@ Become a business-focused Data Analyst who creates measurable impact through dat
      ANALYTICS APPROACH
 ========================================================= -->
 
-<h2 align="center">✦ MY ANALYTICS APPROACH ✦</h2>
+<h2 align="center">⚙️ &nbsp; MY ANALYTICS APPROACH</h2>
 
 <br>
 
-<div align="center">
-
-<table width="100%" cellspacing="8">
+<table width="100%" cellspacing="5">
 
 <tr>
 
 <td align="center" width="14%">
 
-### 01
+<h3>01</h3>
 
-📋
+🔎
 
-<b>Business Problem</b>
+<br><br>
 
-<br>
+<b>Business<br>Problem</b>
+
+<br><br>
 
 <sub>
-Understand the objective,
-define questions and success
-metrics.
+Understand the objective
+and define key questions.
 </sub>
 
 </td>
 
-<td align="center">→</td>
+<td align="center">
+➡️
+</td>
 
 <td align="center" width="14%">
 
-### 02
+<h3>02</h3>
 
 🗄️
 
-<b>Data Sources</b>
+<br><br>
 
-<br>
+<b>Data<br>Collection</b>
+
+<br><br>
 
 <sub>
-Collect data from
-databases, files, APIs
-and business systems.
+Gather data from
+multiple sources.
 </sub>
 
 </td>
 
-<td align="center">→</td>
+<td align="center">
+➡️
+</td>
 
 <td align="center" width="14%">
 
-### 03
+<h3>03</h3>
 
 ⚙️
 
-<b>Data Cleaning</b>
+<br><br>
 
-<br>
+<b>Data Cleaning<br>& Transformation</b>
+
+<br><br>
 
 <sub>
-Clean, merge, transform
-and prepare data.
+Clean, merge and prepare
+data for analysis.
 </sub>
 
 </td>
 
-<td align="center">→</td>
+<td align="center">
+➡️
+</td>
 
 <td align="center" width="14%">
 
-### 04
+<h3>04</h3>
 
-🔎
+💻
+
+<br><br>
 
 <b>Analysis</b>
 
@@ -403,32 +399,28 @@ and prepare data.
 
 <sub>
 SQL · Python
-Identify patterns,
-trends and drivers.
+</sub>
+
+<br><br>
+
+<sub>
+Explore, analyze and
+find meaningful patterns.
 </sub>
 
 </td>
 
-</tr>
-
-<tr>
-
-<td colspan="7" align="center">
-
-↓
-<br><br>
-
+<td align="center">
+➡️
 </td>
-
-</tr>
-
-<tr>
 
 <td align="center" width="14%">
 
-### 05
+<h3>05</h3>
 
 📊
+
+<br><br>
 
 <b>Visualization</b>
 
@@ -436,48 +428,59 @@ trends and drivers.
 
 <sub>
 Power BI
-Interactive dashboards
-and reporting.
+</sub>
+
+<br><br>
+
+<sub>
+Build interactive
+dashboards and reports.
 </sub>
 
 </td>
 
-<td align="center">→</td>
+<td align="center">
+➡️
+</td>
 
 <td align="center" width="14%">
 
-### 06
+<h3>06</h3>
 
 💡
 
-<b>Business Insight</b>
+<br><br>
 
-<br>
+<b>Business<br>Insight</b>
+
+<br><br>
 
 <sub>
 Identify trends,
-opportunities and
-root causes.
+opportunities and insights.
 </sub>
 
 </td>
 
-<td align="center">→</td>
+<td align="center">
+➡️
+</td>
 
 <td align="center" width="14%">
 
-### 07
+<h3>07</h3>
 
 🎯
 
-<b>Decision & Impact</b>
+<br><br>
 
-<br>
+<b>Decision<br>& Impact</b>
+
+<br><br>
 
 <sub>
 Support data-driven
-decisions and measurable
-business outcomes.
+business decisions.
 </sub>
 
 </td>
@@ -488,25 +491,19 @@ business outcomes.
 
 <br>
 
-<img src="https://img.shields.io/badge/CONTINUOUS%20IMPROVEMENT-Learn%20→%20Iterate%20→%20Optimize%20→%20Impact-0F172A?style=for-the-badge&logo=googleanalytics&logoColor=60A5FA">
-
-</div>
-
-<br>
-
 ---
 
 <!-- =========================================================
      PROJECTS
 ========================================================= -->
 
-<h2 align="center" id="selected-projects">✦ SELECTED PROJECTS ✦</h2>
+<h2 align="center" id="selected-projects">📁 &nbsp; SELECTED PROJECTS</h2>
 
 <br>
 
-<table width="100%" border="1" cellspacing="0" cellpadding="10">
+<table width="100%" cellspacing="0" cellpadding="10">
 
-<tr align="center">
+<tr>
 
 <th>#</th>
 <th>Project Name</th>
@@ -531,8 +528,11 @@ understand order profitability.
 </td>
 
 <td>
-Power BI<br>
-SQL
+
+<img src="https://img.shields.io/badge/Power%20BI-111827?style=flat-square&logo=powerbi&logoColor=F2C811">
+
+<img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=mysql&logoColor=4479A1">
+
 </td>
 
 <td>
@@ -543,15 +543,11 @@ profitability.
 
 <td align="center">
 
-<a href="https://github.com/syed-masoom/Power-BI-Project">
-🔗
-</a>
+<a href="YOUR_RTO_PROJECT_LINK">↗</a>
 
-&nbsp;
+&nbsp;&nbsp;
 
-<a href="https://github.com/syed-masoom/Power-BI-Project">
-🐙
-</a>
+<a href="YOUR_RTO_GITHUB_LINK">◉</a>
 
 </td>
 
@@ -562,36 +558,34 @@ profitability.
 <td align="center">02</td>
 
 <td>
-<b>Mobile Store Sales Analysis</b>
+<b>D2C Customer & RFM Analysis</b>
 </td>
 
 <td>
-Understand product, region,
-customer and sales performance.
+Understand customer value,
+retention and purchasing behavior.
 </td>
 
 <td>
-Power BI<br>
-Excel
+
+<img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=mysql&logoColor=4479A1">
+
+<img src="https://img.shields.io/badge/Power%20BI-111827?style=flat-square&logo=powerbi&logoColor=F2C811">
+
 </td>
 
 <td>
-Identified top-performing
-products, regions and
-sales trends.
+Created RFM segments and
+identified high-value customers.
 </td>
 
 <td align="center">
 
-<a href="https://github.com/syed-masoom/Mobile-Store-Sales-Analysis">
-🔗
-</a>
+<a href="YOUR_RFM_PROJECT_LINK">↗</a>
 
-&nbsp;
+&nbsp;&nbsp;
 
-<a href="https://github.com/syed-masoom/Mobile-Store-Sales-Analysis">
-🐙
-</a>
+<a href="YOUR_RFM_GITHUB_LINK">◉</a>
 
 </td>
 
@@ -602,35 +596,34 @@ sales trends.
 <td align="center">03</td>
 
 <td>
-<b>Sales Performance MIS Dashboard</b>
+<b>Marketing Campaign Analysis</b>
 </td>
 
 <td>
-Improve operational visibility
-and management reporting.
+Evaluate campaign performance
+and customer acquisition.
 </td>
 
 <td>
-Excel<br>
-Power Query
+
+<img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1">
+
+<img src="https://img.shields.io/badge/Power%20BI-111827?style=flat-square&logo=powerbi&logoColor=F2C811">
+
 </td>
 
 <td>
-Created KPI-driven reporting
-for sales performance.
+Identified campaign performance,
+conversion and ROI patterns.
 </td>
 
 <td align="center">
 
-<a href="https://github.com/syed-masoom/Sales-Performance-MIS-Dashboard-Microsoft-Excel">
-🔗
-</a>
+<a href="YOUR_MARKETING_PROJECT_LINK">↗</a>
 
-&nbsp;
+&nbsp;&nbsp;
 
-<a href="https://github.com/syed-masoom/Sales-Performance-MIS-Dashboard-Microsoft-Excel">
-🐙
-</a>
+<a href="YOUR_MARKETING_GITHUB_LINK">◉</a>
 
 </td>
 
@@ -641,35 +634,34 @@ for sales performance.
 <td align="center">04</td>
 
 <td>
-<b>SQL Marketing Analysis</b>
+<b>Excel Sales Dashboard</b>
 </td>
 
 <td>
-Analyze campaign performance,
-customer behavior and marketing ROI.
+Improve visibility into sales
+and operational performance.
 </td>
 
 <td>
-MySQL
+
+<img src="https://img.shields.io/badge/Excel-111827?style=flat-square&logo=microsoftexcel&logoColor=217346">
+
+<img src="https://img.shields.io/badge/Power%20Query-111827?style=flat-square&logo=microsoft&logoColor=5B2C83">
+
 </td>
 
 <td>
-Identified campaign-level
-performance and customer
-behavior patterns.
+Created an interactive management
+reporting solution with KPIs.
 </td>
 
 <td align="center">
 
-<a href="https://github.com/syed-masoom/SQL-Project">
-🔗
-</a>
+<a href="YOUR_EXCEL_PROJECT_LINK">↗</a>
 
-&nbsp;
+&nbsp;&nbsp;
 
-<a href="https://github.com/syed-masoom/SQL-Project">
-🐙
-</a>
+<a href="https://github.com/syed-masoom/Excel_Sales_Analysis_Project">◉</a>
 
 </td>
 
@@ -680,35 +672,34 @@ behavior patterns.
 <td align="center">05</td>
 
 <td>
-<b>Power BI Sales Reporting</b>
+<b>Banking & Loan Analytics</b>
 </td>
 
 <td>
-Create an interactive sales
-performance reporting solution.
+Analyze customers, loans and
+financial performance.
 </td>
 
 <td>
-Power BI<br>
-DAX
+
+<img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=mysql&logoColor=4479A1">
+
+<img src="https://img.shields.io/badge/Power%20BI-111827?style=flat-square&logo=powerbi&logoColor=F2C811">
+
 </td>
 
 <td>
-Built dynamic sales KPIs,
-trends and performance views.
+Created customer and loan
+performance analysis.
 </td>
 
 <td align="center">
 
-<a href="https://github.com/syed-masoom/Power-BI-Sales-report">
-🔗
-</a>
+<a href="YOUR_BANKING_PROJECT_LINK">↗</a>
 
-&nbsp;
+&nbsp;&nbsp;
 
-<a href="https://github.com/syed-masoom/Power-BI-Sales-report">
-🐙
-</a>
+<a href="YOUR_BANKING_GITHUB_LINK">◉</a>
 
 </td>
 
@@ -734,143 +725,53 @@ trends and performance views.
      CORE SERVICES
 ========================================================= -->
 
-<h2 align="center">✦ CORE SERVICES ✦</h2>
+<h2 align="center">✦ &nbsp; CORE SERVICES &nbsp; ✦</h2>
 
 <br>
 
-<table width="100%" border="1" cellspacing="0" cellpadding="18">
+<table width="100%" cellspacing="0" cellpadding="20">
 
 <tr>
 
 <td align="center" width="33%">
 
-📊
+### 📊
 
-<h3>Dashboard Development</h3>
+## Dashboard Development
 
-<sub>
-Interactive Power BI and Excel
-dashboards for KPIs,
-management reporting and
-business monitoring.
-</sub>
+Build interactive Power BI
+and Excel dashboards for
+business reporting and KPI tracking.
 
 </td>
 
 <td align="center" width="33%">
 
-🗄️
+### 🗄️
 
-<h3>SQL Data Analysis</h3>
+## SQL Data Engineering
 
-<sub>
-Complex SQL querying,
-data transformation,
-business analysis and
-reporting.
-</sub>
+Complex querying, database
+management and ETL processes
+for clean, decision-ready data.
 
 </td>
 
 <td align="center" width="33%">
 
-🤖
+### 🤖
 
-<h3>AI-Powered Analytics</h3>
+## AI-Powered Analytics
 
-<sub>
-Using modern AI tools to
-accelerate research,
-analysis, automation and
-insight generation.
-</sub>
+Integrating modern AI tools
+with analytics workflows to
+accelerate research and insights.
 
 </td>
 
 </tr>
 
 </table>
-
-<br>
-
----
-
-<!-- =========================================================
-     BUSINESS MINDSET
-========================================================= -->
-
-<h2 align="center">✦ BUSINESS MINDSET ✦</h2>
-
-<br>
-
-<table width="100%" border="1" cellspacing="0" cellpadding="15">
-
-<tr align="center">
-
-<td width="20%">
-
-<b>WHAT</b>
-
-<br><br>
-
-What happened?
-
-</td>
-
-<td width="20%">
-
-<b>WHY</b>
-
-<br><br>
-
-Why did it happen?
-
-</td>
-
-<td width="20%">
-
-<b>WHAT'S NEXT</b>
-
-<br><br>
-
-What could happen next?
-
-</td>
-
-<td width="20%">
-
-<b>ACTION</b>
-
-<br><br>
-
-What should we do?
-
-</td>
-
-<td width="20%">
-
-<b>IMPACT</b>
-
-<br><br>
-
-How do we measure success?
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<p align="center">
-
-<b>
-Good analytics does not stop at reporting.
-It turns numbers into decisions.
-</b>
-
-</p>
 
 <br>
 
@@ -880,15 +781,15 @@ It turns numbers into decisions.
      CERTIFICATIONS
 ========================================================= -->
 
-<h2 align="center">✦ PROFESSIONAL CERTIFICATIONS ✦</h2>
+<h2 align="center">🏆 &nbsp; PROFESSIONAL CERTIFICATIONS</h2>
 
 <br>
 
-<table width="100%" border="1" cellspacing="0" cellpadding="12">
+<table width="100%" cellspacing="0" cellpadding="14">
 
 <tr>
 
-<td width="12%" align="center">
+<td width="10%" align="center">
 
 <img
 src="https://img.icons8.com/color/96/microsoft.png"
@@ -897,7 +798,7 @@ width="48"
 
 </td>
 
-<td width="60%">
+<td width="65%">
 
 <b>Career Essentials in Data Analysis</b>
 
@@ -905,17 +806,21 @@ width="48"
 
 <sub>
 Microsoft · LinkedIn
-<br>
+</sub>
+
+<br><br>
+
+<sub>
 Data Analysis · Data Visualization · Business Intelligence
 </sub>
 
 </td>
 
-<td width="28%" align="center">
+<td width="25%" align="center">
 
 <a href="YOUR_MICROSOFT_CERTIFICATE_LINK">
 
-<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-2563EB?style=flat-square&logo=microsoft&logoColor=white">
+<img src="https://img.shields.io/badge/✓%20VERIFIED-10B981?style=for-the-badge&logo=microsoft&logoColor=white">
 
 </a>
 
@@ -942,7 +847,11 @@ width="48"
 
 <sub>
 DataCamp
-<br>
+</sub>
+
+<br><br>
+
+<sub>
 SQL · Data Analysis · Data Manipulation
 </sub>
 
@@ -952,39 +861,7 @@ SQL · Data Analysis · Data Manipulation
 
 <a href="YOUR_DATACAMP_CERTIFICATE_LINK">
 
-<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-2563EB?style=flat-square&logo=datacamp&logoColor=white">
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-➕
-
-</td>
-
-<td>
-
-<b>Continuous Learning</b>
-
-<br>
-
-<sub>
-Advanced Python · AI · Business Analytics · Automation
-</sub>
-
-</td>
-
-<td align="center">
-
-<a href="#current-learning">
-
-<img src="https://img.shields.io/badge/LEARNING-JOURNEY-10B981?style=flat-square&logo=bookstack&logoColor=white">
+<img src="https://img.shields.io/badge/✓%20VERIFIED-10B981?style=for-the-badge&logo=datacamp&logoColor=white">
 
 </a>
 
@@ -999,40 +876,16 @@ Advanced Python · AI · Business Analytics · Automation
 ---
 
 <!-- =========================================================
-     CURRENT LEARNING
+     CONTACT / CTA
 ========================================================= -->
 
-<h2 align="center" id="current-learning">✦ CURRENTLY LEARNING ✦</h2>
+<h2 align="center">✦ &nbsp; INITIATE CONNECTION &nbsp; ✦</h2>
 
 <br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Advanced%20Python-Analytics-0F172A?style=for-the-badge&logo=python&logoColor=3776AB">
-
-<img src="https://img.shields.io/badge/Advanced%20SQL-Analytics-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1">
-
-<img src="https://img.shields.io/badge/Power%20BI-Advanced%20DAX-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811">
-
-<img src="https://img.shields.io/badge/AI-Automation-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF">
-
-</div>
-
-<br>
-
----
-
-<!-- =========================================================
-     CONNECTION
-========================================================= -->
-
-<h2 align="center">✦ INITIATE CONNECTION ✦</h2>
-
-<br>
-
-<div align="center">
-
-<table width="65%" border="1" cellspacing="0" cellpadding="20">
+<table width="65%" cellspacing="0" cellpadding="20">
 
 <tr>
 
@@ -1041,38 +894,24 @@ Advanced Python · AI · Business Analytics · Automation
 <h3>Ready to Transform Your Data?</h3>
 
 <p>
-Available for <b>Data Analytics opportunities,
-freelance projects, collaborations and
-interesting business problems.</b>
+Available for freelance analytics projects,
+<br>
+collaborations, BI projects and full-time opportunities.
 </p>
 
 <br>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
 
-<img
-src="https://img.shields.io/badge/EMAIL%20ME-2563EB?style=for-the-badge&logo=gmail&logoColor=white"
->
+<img src="https://img.shields.io/badge/✉%20EMAIL%20ME-2563EB?style=for-the-badge&logo=gmail&logoColor=white">
 
 </a>
 
 &nbsp;
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<a href="YOUR_LINKEDIN_URL">
 
-<img
-src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
->
-
-</a>
-
-&nbsp;
-
-<a href="https://wa.me/YOUR_WHATSAPP_NUMBER">
-
-<img
-src="https://img.shields.io/badge/WHATSAPP-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white"
->
+<img src="https://img.shields.io/badge/IN%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 
 </a>
 
@@ -1080,9 +919,7 @@ src="https://img.shields.io/badge/WHATSAPP-16A34A?style=for-the-badge&logo=whats
 
 <a href="YOUR_PORTFOLIO_URL">
 
-<img
-src="https://img.shields.io/badge/COLLABORATE-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"
->
+<img src="https://img.shields.io/badge/↗%20PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white">
 
 </a>
 
@@ -1091,22 +928,6 @@ src="https://img.shields.io/badge/COLLABORATE-7C3AED?style=for-the-badge&logo=go
 </tr>
 
 </table>
-
-<br>
-
-<p>
-
-<b>
-“Analyze. Visualize. Explain. Impact.”
-</b>
-
-<br><br>
-
-<sub>
-Built with ❤️ using Data, Analytics & AI
-</sub>
-
-</p>
 
 </div>
 
@@ -1118,8 +939,20 @@ Built with ❤️ using Data, Analytics & AI
 
 <div align="center">
 
+<p>
+<b>Built with ❤️ using Data, Analytics & AI</b>
+</p>
+
+<p>
+<i>
+“Analyze. Visualize. Explain. Impact.”
+</i>
+</p>
+
+<br>
+
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:172554,100:2563EB&height=110&section=footer"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F172A,70:1D4ED8,100:06B6D4&height=110&section=footer"
 width="100%"
 >
 
