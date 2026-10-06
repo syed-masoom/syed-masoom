@@ -147,6 +147,20 @@ My goal is simple:
 
 </div>
 
+<!-- DATA ANALYTICS PROCESS SECTION -->
+<h2 align="center" style="color: #06B6D4;">✦ ANALYTICS WORKFLOW ✦</h2>
+
+<p align="center">
+  <kbd style="background-color:#111827; color:#3B82F6; padding:10px; border-radius:5px;">1. Business Problem</kbd> ➔
+  <kbd style="background-color:#111827; color:#06B6D4; padding:10px; border-radius:5px;">2. Data Collection</kbd> ➔
+  <kbd style="background-color:#111827; color:#10B981; padding:10px; border-radius:5px;">3. Data Cleaning</kbd> ➔
+  <kbd style="background-color:#111827; color:#7C3AED; padding:10px; border-radius:5px;">4. Data Analysis</kbd> <br><br>➔
+  <kbd style="background-color:#111827; color:#3B82F6; padding:10px; border-radius:5px;">5. Visualization</kbd> ➔
+  <kbd style="background-color:#111827; color:#06B6D4; padding:10px; border-radius:5px;">6. Business Insights</kbd> ➔
+  <kbd style="background-color:#111827; color:#10B981; padding:10px; border-radius:5px;">7. Decision Making</kbd>
+</p>
+
+
 ---
 
 ## WHAT I DO
