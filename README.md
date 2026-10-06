@@ -339,53 +339,66 @@ Data Cleaning · Analysis · Visualization
 ---
 
 <!-- =========================================================
-     FOOTER / CONTACT
+     CONTACT / CTA
 ========================================================= -->
 
 <div align="center">
 
-## LET'S CONNECT
+# LET'S CONNECT
 
-### Turning Data Into Better Decisions
+### Have a business problem that can be solved with data?
 
-**Open to Data Analytics opportunities, collaborations, freelance projects, and interesting business problems.**
+I'm open to connecting with professionals, recruiters, businesses, and fellow data enthusiasts.
 
 <br>
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 &nbsp;
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 &nbsp;
 
 <a href="https://wa.me/YOUR-WHATSAPP-NUMBER">
-<img src="https://img.shields.io/badge/WHATSAPP-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WHATSAPP-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-&nbsp;
+</div>
 
-<a href="https://github.com/YOUR-USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
+<br>
 
 ---
 
-### Analyze. Visualize. Explain. Impact.
+<!-- =========================================================
+     PREMIUM FOOTER
+========================================================= -->
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1D4ED8,100:0F172A&height=120&section=footer"
+width="100%"
+/>
+
+<br>
+
+### DATA → INSIGHTS → DECISIONS → IMPACT
+
+<br>
 
 <sub>
-Built with curiosity, data, and a business-first mindset.
+Built with curiosity, analytical thinking & a business-first mindset.
 </sub>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:172554,100:2563EB&height=100&section=footer"/>
+<sub>
+© 2026 Masoom Naushad • Data Analyst
+</sub>
 
 </div>
