@@ -277,7 +277,7 @@ A selection of business-focused analytics projects built around real-world scena
 └──────────────────┘
 ```
 
--- =========================================================
+<!-- =========================================================
      CERTIFICATIONS
 ========================================================= -->
 
@@ -288,148 +288,35 @@ A selection of business-focused analytics projects built around real-world scena
 <table>
 <tr>
 
-<td width="33%" align="center" valign="middle">
+<td width="50%" valign="middle">
 
-### 📊 Data Analysis
+### 📊 Microsoft Career Essentials in Data Analysis
 
-**Career Essentials in Data Analysis**
+**Microsoft · LinkedIn**
 
-Microsoft × LinkedIn
+Data analysis fundamentals, data visualization, business insights, and analytical thinking.
 
-Data Analysis • Data Visualization • Business Insights
-
-<br>
-
-<img src="https://img.shields.io/badge/VERIFIED-22C55E?style=flat-square&logo=microsoft&logoColor=white"/>
+<a href="YOUR_CERTIFICATE_LINK">
+<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </td>
 
-<td width="33%" align="center" valign="middle">
+<td width="50%" valign="middle">
 
-### 🗄️ SQL Analytics
+### 🗄️ Associate Data Analyst in SQL
 
-**Associate Data Analyst in SQL**
+**DataCamp**
 
-DataCamp
+SQL querying, data manipulation, filtering, aggregation, joins, and analytical SQL.
 
-SQL • Data Manipulation • Analytical Queries
-
-<br>
-
-<img src="https://img.shields.io/badge/VERIFIED-22C55E?style=flat-square&logo=datacamp&logoColor=white"/>
-
-</td>
-
-<td width="33%" align="center" valign="middle">
-
-### 📈 Business Intelligence
-
-**Power BI / BI Analytics**
-
-Microsoft / Professional Learning
-
-Data Modeling • DAX • Dashboard Development
-
-<br>
-
-<img src="https://img.shields.io/badge/LEARNING-3B82F6?style=flat-square&logo=powerbi&logoColor=white"/>
+<a href="YOUR_CERTIFICATE_LINK">
+<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-0F172A?style=for-the-badge&logo=datacamp&logoColor=white"/>
+</a>
 
 </td>
 
 </tr>
 </table>
-
-</div>
-
-<br>
-
----
-
-<!-- =========================================================
-     CONTINUOUS LEARNING
-========================================================= -->
-
-## CONTINUOUS LEARNING
-
-<div align="center">
-
-> **Always learning. Always improving. Always looking for better ways to turn data into impact.**
-
-<br>
-
-`Advanced SQL` &nbsp;•&nbsp;
-`Power BI` &nbsp;•&nbsp;
-`Python` &nbsp;•&nbsp;
-`AI & Automation` &nbsp;•&nbsp;
-`Business Analytics`
-
-</div>
-
-<br>
-
----
-
-<!-- =========================================================
-     CONTACT / CTA
-========================================================= -->
-
-<div align="center">
-
-# LET'S CONNECT
-
-### Have a business problem that can be solved with data?
-
-I'm open to connecting with professionals, recruiters, businesses, and fellow data enthusiasts.
-
-<br>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-<img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-&nbsp;
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-&nbsp;
-
-<a href="https://wa.me/YOUR-WHATSAPP-NUMBER">
-<img src="https://img.shields.io/badge/WHATSAPP-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
----
-
-<!-- =========================================================
-     PREMIUM FOOTER
-========================================================= -->
-
-<div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1D4ED8,100:0F172A&height=120&section=footer"
-width="100%"
-/>
-
-<br>
-
-### DATA → INSIGHTS → DECISIONS → IMPACT
-
-<br>
-
-<sub>
-Built with curiosity, analytical thinking & a business-first mindset.
-</sub>
-
-<br><br>
-
-<sub>
-© 2026 Masoom Naushad • Data Analyst
-</sub>
 
 </div>
