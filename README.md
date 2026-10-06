@@ -320,3 +320,37 @@ SQL querying, data manipulation, filtering, aggregation, joins, and analytical S
 </table>
 
 </div>
+
+<br>
+
+<div align="center">
+
+---
+
+### Let's turn data into something meaningful.
+
+**SQL · Power BI · Python · Excel · AI**
+
+<br>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/YOUR-USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<sub>Built with curiosity, data and a business-first mindset.</sub>
+
+</div>
