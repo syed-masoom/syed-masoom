@@ -288,30 +288,62 @@ A selection of business-focused analytics projects built around real-world scena
 <table>
 <tr>
 
-<td width="50%" valign="middle">
+<td width="33%" align="center">
 
-### 📊 Microsoft Career Essentials in Data Analysis
+<img src="https://img.icons8.com/color/96/microsoft.png" width="42"/>
 
-**Microsoft · LinkedIn**
+### Microsoft
 
-Data analysis fundamentals, data visualization, business insights, and analytical thinking.
+**Career Essentials in Data Analysis**
+
+Microsoft · LinkedIn
+
+Data Analysis · Data Visualization · Business Intelligence
+
+<br>
 
 <a href="YOUR_CERTIFICATE_LINK">
-<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-2563EB?style=flat-square&logo=microsoft&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%" valign="middle">
+<td width="33%" align="center">
 
-### 🗄️ Associate Data Analyst in SQL
+<img src="https://img.icons8.com/color/96/sql.png" width="42"/>
 
-**DataCamp**
+### DataCamp
 
-SQL querying, data manipulation, filtering, aggregation, joins, and analytical SQL.
+**Associate Data Analyst in SQL**
+
+DataCamp
+
+SQL · Data Analysis · Data Manipulation
+
+<br>
 
 <a href="YOUR_CERTIFICATE_LINK">
-<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-0F172A?style=for-the-badge&logo=datacamp&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-0F172A?style=flat-square&logo=datacamp&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/color/96/google-logo.png" width="42"/>
+
+### Google
+
+**Data Analytics Professional**
+
+Google
+
+Data Cleaning · Analysis · Visualization
+
+<br>
+
+<a href="YOUR_CERTIFICATE_LINK">
+<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-2563EB?style=flat-square&logo=google&logoColor=white"/>
 </a>
 
 </td>
@@ -323,34 +355,56 @@ SQL querying, data manipulation, filtering, aggregation, joins, and analytical S
 
 <br>
 
-<div align="center">
-
 ---
 
-### Let's turn data into something meaningful.
+<!-- =========================================================
+     FOOTER / CONTACT
+========================================================= -->
 
-**SQL · Power BI · Python · Excel · AI**
+<div align="center">
+
+## LET'S CONNECT
+
+### Turning Data Into Better Decisions
+
+**Open to Data Analytics opportunities, collaborations, freelance projects, and interesting business problems.**
 
 <br>
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://wa.me/YOUR-WHATSAPP-NUMBER">
+<img src="https://img.shields.io/badge/WHATSAPP-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="https://github.com/YOUR-USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<sub>Built with curiosity, data and a business-first mindset.</sub>
+---
+
+### Analyze. Visualize. Explain. Impact.
+
+<sub>
+Built with curiosity, data, and a business-first mindset.
+</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:172554,100:2563EB&height=100&section=footer"/>
 
 </div>
