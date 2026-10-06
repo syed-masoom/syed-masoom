@@ -226,7 +226,7 @@ Decision support
 
 ---
 
-# SELECTED PROJECTS
+# PROJECTS
 
 A selection of business-focused analytics projects built around real-world scenarios.
 
@@ -258,6 +258,7 @@ A selection of business-focused analytics projects built around real-world scena
 
 > **Business Problem → Data → Analysis → Insight → Decision → Impact**
 
+---
 <!-- =========================================================
      CERTIFICATIONS
 ========================================================= -->
