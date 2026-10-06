@@ -165,6 +165,7 @@ My goal is simple:
 
 ## WHAT I DO
 
+<div align="center">
 <table>
 <tr>
 
