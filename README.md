@@ -349,31 +349,58 @@ Data Cleaning · Analysis · Visualization
 
 ### Have a business problem that can be solved with data?
 
-I'm open to connecting with professionals, recruiters, businesses, and fellow data enthusiasts.
+
+<!-- CONTACT SECTION -->
+
+<h2 align="center">LET'S CONNECT</h2>
+
+<p align="center">
+  <b>Have a data challenge?</b><br>
+  Open to Data Analytics opportunities, BI projects,
+  and professional collaborations.
+</p>
 
 <br>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-<img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Connect on LinkedIn"
+  />
 </a>
-
 &nbsp;
-
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335"
+    alt="Send Email"
+  />
 </a>
-
 &nbsp;
-
-<a href="https://wa.me/YOUR-WHATSAPP-NUMBER">
-<img src="https://img.shields.io/badge/WHATSAPP-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/YOUR_WHATSAPP_NUMBER">
+  <img
+    src="https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white"
+    alt="Connect on WhatsApp"
+  />
 </a>
+&nbsp;
+<a href="https://github.com/syed-masoom">
+  <img
+    src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"
+    alt="View GitHub"
+  />
+</a>
+
+<br><br>
+
+<p>
+  <sub>DATA · ANALYTICS · BUSINESS IMPACT</sub>
+</p>
 
 </div>
 
-<br>
 
----
 
 <!-- =========================================================
      PREMIUM FOOTER
