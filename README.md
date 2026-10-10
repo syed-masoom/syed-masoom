@@ -352,14 +352,6 @@ Data Cleaning · Analysis · Visualization
 
 <!-- CONTACT SECTION -->
 
-<h2 align="center">LET'S CONNECT</h2>
-
-<p align="center">
-  <b>Have a data challenge?</b><br>
-  Open to Data Analytics opportunities, BI projects,
-  and professional collaborations.
-</p>
-
 <br>
 
 <div align="center">
