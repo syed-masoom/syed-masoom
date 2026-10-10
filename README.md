@@ -356,14 +356,14 @@ Data Cleaning · Analysis · Visualization
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/md-masoom-naushad">
   <img
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="Connect on LinkedIn"
   />
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:masoomsyed107@gmail.com">
   <img
     src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335"
     alt="Send Email"
