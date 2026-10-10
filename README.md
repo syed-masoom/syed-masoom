@@ -48,7 +48,7 @@
 
 ### Turning Data Into Decisions
 
-I am a **Data Analyst** focused on transforming raw business data into clear, actionable insights.
+I am a **Data & Business Analyst** focused on transforming raw business data into clear, actionable insights.
 
 My approach combines **SQL, Power BI, Python, Excel, AI, and business thinking** to understand what is happening in a business, why it is happening, and what should happen next.
 
