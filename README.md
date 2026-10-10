@@ -21,23 +21,7 @@
   </a>
 
   <br><br>
-
-  <a href="#selected-projects">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA" />
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA" />
-  </a>
-
-</div>
-
-<br>
-
+  
 ---
 
 ## ABOUT
