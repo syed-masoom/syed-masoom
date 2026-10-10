@@ -65,7 +65,7 @@ My goal is simple:
 
 ---
 
-## CORE TECHNOLOGY
+## CORE SKILL & TECHNOLOGY
 
 <div align="center">
 
